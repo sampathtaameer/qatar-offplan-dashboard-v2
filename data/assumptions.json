@@ -1,0 +1,11 @@
+{
+ "as_of": "2026-10-14",
+ "notes": "Default assumptions for net yield and payment-plan cash flow. Every value can be changed on screen (gear icon); changes are kept in your browser only. Edit this file to change the defaults for everyone.",
+ "service_charge_qar_sqm_month": 15,
+ "vacancy": 0.08,
+ "purchase_fees": 0.02,
+ "selling_costs": 0.02,
+ "price_growth_pa": 0,
+ "discount_rate": 0.08,
+ "hold_years_after_handover": 3
+}

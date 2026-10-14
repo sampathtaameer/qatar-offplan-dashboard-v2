@@ -1,0 +1,100 @@
+name: Refresh data, email digest, deploy
+
+# v2.0 runs from a PRIVATE repository.
+# - Weekly refresh: Sundays 07:00 Doha. Commits new data only if validation passes.
+# - Email digest: sent after a successful refresh when the MAIL_* secrets are set (see README).
+# - GitHub Pages: OFF unless the repository variable DEPLOY_PAGES is 'true'. Pages sites are
+#   publicly reachable even from a private repo (except on GitHub Enterprise Cloud with private Pages),
+#   so leave it off for internal data and view the dashboard locally (python -I tools/serve.py).
+
+on:
+  schedule:
+    - cron: '0 4 * * 0'   # Sundays 07:00 Doha (UTC+3)
+  workflow_dispatch:
+    inputs:
+      full:
+        description: 'Also refresh OpenStreetMap places and noise geometry'
+        type: boolean
+        default: false
+      email:
+        description: 'Send the email digest'
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-and-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    # Pushes only (optionally) redeploy; the data refresh runs on the schedule or when started by hand.
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    env:
+      MAIL_SERVER: ${{ secrets.MAIL_SERVER }}
+      MAIL_PORT: ${{ secrets.MAIL_PORT }}
+      MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+      MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh and validate
+        run: |
+          FULL=""
+          if [ "${{ inputs.full }}" = "true" ] || [ "$(date -u +%d)" -le 7 ]; then FULL="--full"; fi
+          python -I tools/refresh.py . $FULL
+      - name: Commit changes
+        run: |
+          git config user.name "data-refresh-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data tools/moj_urls.txt tools/moj_all_urls.txt
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          SUMMARY=$(python -I -c "import json;c=json.load(open('data/changes.json',encoding='utf-8'))['records'];print('; '.join(i['text_en'] for i in c[0]['items'])[:300] if c else 'refresh')")
+          git commit -m "Data refresh $(date -u +%F)" -m "$SUMMARY"
+          git push
+      - name: Read digest subject
+        id: subject
+        if: env.MAIL_TO != '' && (github.event_name == 'schedule' || inputs.email)
+        run: echo "text=$(cat data/digest_subject.txt)" >> "$GITHUB_OUTPUT"
+      - name: Email digest
+        if: env.MAIL_TO != '' && (github.event_name == 'schedule' || inputs.email)
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ env.MAIL_SERVER }}
+          server_port: ${{ env.MAIL_PORT }}
+          secure: ${{ env.MAIL_PORT == '465' }}
+          username: ${{ env.MAIL_USERNAME }}
+          password: ${{ env.MAIL_PASSWORD }}
+          from: Qatar Off-Plan Dashboard <${{ env.MAIL_USERNAME }}>
+          to: ${{ env.MAIL_TO }}
+          subject: ${{ steps.subject.outputs.text }}
+          html_body: file://data/digest.html
+          convert_markdown: false
+
+  deploy:
+    needs: refresh
+    if: always() && vars.DEPLOY_PAGES == 'true' && (needs.refresh.result == 'success' || needs.refresh.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4

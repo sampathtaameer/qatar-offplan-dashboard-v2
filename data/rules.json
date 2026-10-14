@@ -1,0 +1,34 @@
+{
+ "as_of": "2026-10-11",
+ "residency": [
+  {
+   "id": "property-residency",
+   "threshold_qar": 730000,
+   "label_en": "Property residence permit",
+   "label_ar": "إقامة مرتبطة بالعقار",
+   "benefits_en": "Renewable residence permit for the owner and immediate family without an employer sponsor. Sources cite a 90-day minimum stay per year.",
+   "benefits_ar": "إقامة قابلة للتجديد للمالك وأسرته دون كفيل عمل. تذكر المصادر حداً أدنى للإقامة 90 يوماً في السنة.",
+   "source": "Aqarat, Own real estate",
+   "source_url": "https://www.aqarat.gov.qa/en/investors-journey/own-real-estate/",
+   "as_of": "2026-10-11",
+   "confidence": "high"
+  },
+  {
+   "id": "permanent-benefits",
+   "threshold_qar": 3650000,
+   "label_en": "Permanent residency benefits",
+   "label_ar": "مزايا الإقامة الدائمة",
+   "benefits_en": "Residency with benefits similar to permanent residency card holders, including health, education and investment.",
+   "benefits_ar": "إقامة بمزايا مماثلة لحاملي بطاقة الإقامة الدائمة، تشمل الصحة والتعليم والاستثمار.",
+   "source": "Aqarat, Own real estate",
+   "source_url": "https://www.aqarat.gov.qa/en/investors-journey/own-real-estate/",
+   "as_of": "2026-10-11",
+   "confidence": "high"
+  }
+ ],
+ "regimes": [
+  {"id": "freehold", "foreign_ownership": true, "desc_en": "Full ownership by non-Qataris in the 10 areas listed in Cabinet Resolution 21 of 2026.", "desc_ar": "تملك كامل لغير القطريين في المناطق العشر الواردة في قرار مجلس الوزراء رقم 21 لسنة 2026."},
+  {"id": "usufruct", "foreign_ownership": true, "desc_en": "Right to use and benefit for up to 99 years, renewable, in the 16 usufruct areas of Resolution 28 of 2020.", "desc_ar": "حق انتفاع حتى 99 سنة قابل للتجديد في مناطق الانتفاع الست عشرة بموجب القرار 28 لسنة 2020."},
+  {"id": "qatari_only", "foreign_ownership": false, "desc_en": "Not a designated area for non-Qatari ownership. Qatari and some GCC buyers only.", "desc_ar": "ليست منطقة مخصصة لتملك غير القطريين. للقطريين وبعض مواطني الخليج فقط."}
+ ]
+}

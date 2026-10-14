@@ -1,0 +1,16 @@
+id,units_total,floors,handover,status,area_id,lat,lng,location_quality,source,source_url,note
+canal-bay,783,,,,,25.43,51.5245,district,"QatarLiving: TAAMEER Group unveils CANAL BAY (783 residential apartments, plus 382 hotel apartments and 579 hotel rooms)",https://www.qatarliving.com/en/article/taameer-group-unveils-canal-bay-an-integrated-waterfront-district-on-qetaifan-island-north,Location set to Qetaifan Island North centroid (from island listing pins); building not pinned.
+seef-waterfront,610,8,,,,,,,"TAAMEER Group website: 601 residential units + 9 triplex/duplex, 8 floors",https://www.taameergroup.com/seef-waterfront,
+la-mer-tower,,33,,,,,,,"Home Link Real Estate: La Mer Tower, 33 floors",https://homelink.qa/our-projects/la-mer-tower/,
+carlton-house,316,12,2027-12,,,,,,"Prive Group: 316 residential units over 12 floors, handover Q4 2027",https://privegroupre.com/portfolio/carlton-house-seaside-luxury-at-qetaifan-island-north/,Handover not on Property Finder; from broker page.
+voya-waterfront,119,,,,,,,,"Gulf Times: Voya Tower project on Lusail waterfront launched (some 119 housing units)",https://www.gulf-times.com/article/661424/qatar/voya-tower-project-on-lusail-waterfront-launched,
+marina-22,170,,,,,,,,"Al Madar Holding: 170 fully furnished residences at Lusail Marina",https://almadar-holding.com/projects/marina-22-by-almadar-lusail-marina/,
+lhorizon,,6,,,,25.43,51.5245,district,"dxboffplan: G+5 low-rise, Qetaifan Island North",https://dxboffplan.com/properties/lhorizon-doha-qatar/,Broker page gives handover Q4 2028; Property Finder says Dec 2027. Property Finder date kept.
+sea-la-vie,,,,,,25.43,51.5245,district,"PropertyWire: DAR Global launches Sea La Vie on Qetaifan Island North, completion June 2030",https://www.propertywire.com/news/middle-east/dar-global-launches-waterfront-apartments-in-qetaifan-island/,PropertyWire gives June 2030; Property Finder Dec 2030. Property Finder date kept.
+the-weekend,,,,,,25.43,51.5245,district,Property Finder lists project on Qetaifan Islands; placed at island centroid,,
+the-weekend-02-by-elie-saab,,,,,,25.43,51.5245,district,Property Finder lists project on Qetaifan Islands; placed at island centroid,,
+via-doro,,,,,,25.43,51.5245,district,Property Finder lists project on Qetaifan Islands; placed at island centroid,,
+miran-by-mazaya,,,,,,25.43255,51.50997,district,"The Group (Mazaya): Miran Tower in Al Kharaej, Lusail; saleable area about 12,000 sqm",https://thegroup.com.qa/news-api/api/v1/news/html/Kl7c3er,Placed at Al Kharaej district (Rawah Residence pin).
+the-gate,,,,,jabal-thuaileb,25.4146,51.5035,district,Property Finder resale listings place The Gate by MK Residence in Fox Hills,https://www.propertyfinder.qa/en/plp/buy/apartment-for-sale-lusail-fox-hills-the-gate-by-mk-residence-59942518.html,Moved from Lusail to Fox Hills (Jabal Thuaileb).
+bin-al-sheikh-marina-tower,,,,,,25.3908,51.5228,district,Name and Property Finder location: Lusail Marina district; placed at Marina centroid,,
+bliss-villas-huzoom-lusail,,,,,,25.45002,51.49876,district,Name: Al Huzoom (Lusail); placed at Huzoom Villas pin,,

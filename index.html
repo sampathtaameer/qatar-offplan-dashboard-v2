@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Qatar Off-Plan Dashboard v2.0</title>
+  <meta name="description" content="Internal Taameer dashboard: Qatar off-plan supply, like-for-like pricing, payment plans, developers and competitor positioning.">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <script>
+    // Apply the saved theme before first paint. Light (Taameer house style) is the default.
+    (function () {
+      var t = 'light';
+      try { t = localStorage.getItem('v2.theme') || 'light'; } catch (e) { /* storage unavailable */ }
+      if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+    })();
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/suncalc/1.9.0/suncalc.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/overview">
+      <img class="brand-logo" src="assets/taameer-logo.png" alt="Taameer" width="660" height="253">
+      <span class="brand-text"><strong data-i18n="app.title">Qatar Off-Plan</strong><small data-i18n="app.subtitle">Market dashboard · v2.0 · internal</small></span>
+    </a>
+    <nav class="mainnav" aria-label="Main">
+      <a href="#/overview" data-i18n="nav.overview">Overview</a>
+      <a href="#/projects" data-i18n="nav.projects">Projects</a>
+      <a href="#/taameer" data-i18n="nav.taameer">Taameer</a>
+      <a href="#/developers" data-i18n="nav.developers">Developers</a>
+      <a href="#/compare" data-i18n="nav.compare">Compare</a>
+      <a href="#/areas" data-i18n="nav.areas">Areas</a>
+      <a href="#/focus" data-i18n="nav.focus">Lusail &amp; Qetaifan</a>
+    </nav>
+    <div class="toggles">
+      <button id="settingsBtn" class="btn ghost icon" type="button">⚙</button>
+      <button id="themeToggle" class="btn ghost icon" type="button">☀</button>
+      <button id="langToggle" class="btn ghost" type="button" aria-label="Switch language">عربي</button>
+      <label class="switch" title="Analyst mode">
+        <input id="analystToggle" type="checkbox">
+        <span data-i18n="toggle.analyst">Analyst</span>
+      </label>
+    </div>
+  </header>
+
+  <main id="view" tabindex="-1"><div class="card empty">Loading… · جارٍ التحميل…</div></main>
+
+  <footer class="footer">
+    <p id="freshness"></p>
+    <p data-i18n="footer.disclaimer">Internal Taameer use only. Developer prices are asking prices from public listings; transactions are Ministry of Justice registrations. Not investment advice.</p>
+  </footer>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

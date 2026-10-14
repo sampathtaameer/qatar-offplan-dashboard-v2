@@ -1,0 +1,5 @@
+{
+ "as_of": "2026-10-14",
+ "notes": "Project ids to highlight in the weekly email digest. Stars you click in the dashboard are saved in your browser only; copy them here (Changes page > Copy watchlist) to include them in the email.",
+ "ids": ["la-mer-tower", "seef-waterfront", "canal-bay", "carlton-house"]
+}

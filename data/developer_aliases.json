@@ -1,0 +1,307 @@
+{
+ "as_of": "2026-10-14",
+ "notes": "Qatar developers and the ways listings write their names. Used to read the developer out of broker descriptions (tools/listing_facts.py). 'group' joins related companies for the scorecard. Add a developer by adding an entry; patterns are case-insensitive regular expressions matched on word boundaries.",
+ "records": [
+  {
+   "name": "United Development Company (UDC)",
+   "group": "UDC",
+   "patterns": [
+    "united development company",
+    "\\bUDC\\b"
+   ],
+   "known_for": "The Pearl Island, Gewan Island"
+  },
+  {
+   "name": "Qatari Diar",
+   "group": "Qatari Diar",
+   "patterns": [
+    "qatari diar"
+   ],
+   "known_for": "Lusail master developer, Simaisma"
+  },
+  {
+   "name": "Lusail Real Estate Development Company",
+   "group": "Qatari Diar",
+   "patterns": [
+    "lusail real estate development",
+    "\\bLREDC\\b"
+   ],
+   "known_for": "Lusail Marina towers"
+  },
+  {
+   "name": "Barwa Real Estate",
+   "group": "Barwa",
+   "patterns": [
+    "barwa real estate",
+    "\\bbarwa\\b(?! hills| city| al)"
+   ],
+   "known_for": "Barwa City, Barwa Hills"
+  },
+  {
+   "name": "Ezdan Real Estate",
+   "group": "Ezdan",
+   "patterns": [
+    "ezdan"
+   ],
+   "known_for": "Ezdan Village, Al Wakra"
+  },
+  {
+   "name": "Msheireb Properties",
+   "group": "Msheireb",
+   "patterns": [
+    "msheireb properties"
+   ],
+   "known_for": "Msheireb Downtown"
+  },
+  {
+   "name": "Dar Global",
+   "group": "Dar Al Arkan",
+   "patterns": [
+    "dar global",
+    "darglobal"
+   ],
+   "known_for": "Qetaifan, Trump Residences Simaisma"
+  },
+  {
+   "name": "Dar Al Arkan",
+   "group": "Dar Al Arkan",
+   "patterns": [
+    "dar al[- ]arkan"
+   ],
+   "known_for": "Les Vagues, The Weekend"
+  },
+  {
+   "name": "DAMAC Properties",
+   "group": "DAMAC",
+   "patterns": [
+    "\\bdamac\\b"
+   ],
+   "known_for": "Burj DAMAC Marina, Lusail"
+  },
+  {
+   "name": "Mazaya Real Estate",
+   "group": "Mazaya",
+   "patterns": [
+    "mazaya"
+   ],
+   "known_for": "Voya, Miran, Vera, Via D'oro"
+  },
+  {
+   "name": "Capstone Property",
+   "group": "Capstone",
+   "patterns": [
+    "capstone"
+   ],
+   "known_for": "Bliss Tower, Bliss Gardens, Thirty Five"
+  },
+  {
+   "name": "TAAMEER Development",
+   "group": "TAAMEER",
+   "patterns": [
+    "taameer",
+    "ta'ameer",
+    "tameer development"
+   ],
+   "known_for": "La Mer, Seef Waterfront, Canal Bay, Carlton House"
+  },
+  {
+   "name": "Qetaifan Projects",
+   "group": "Qetaifan Projects",
+   "patterns": [
+    "qetaifan projects",
+    "katara hospitality"
+   ],
+   "known_for": "Qetaifan Island North master developer"
+  },
+  {
+   "name": "Al Asmakh Real Estate",
+   "group": "Al Asmakh",
+   "patterns": [
+    "al[- ]asmakh"
+   ],
+   "known_for": "Doha, Lusail"
+  },
+  {
+   "name": "Alfardan Properties",
+   "group": "Alfardan",
+   "patterns": [
+    "alfardan properties",
+    "al fardan properties"
+   ],
+   "known_for": "West Bay Lagoon, The Pearl"
+  },
+  {
+   "name": "Al Qamra Holding",
+   "group": "Al Qamra",
+   "patterns": [
+    "al qamra"
+   ],
+   "known_for": "Fox Hills"
+  },
+  {
+   "name": "Estithmar Holding",
+   "group": "Estithmar",
+   "patterns": [
+    "estithmar"
+   ],
+   "known_for": ""
+  },
+  {
+   "name": "Elegancia",
+   "group": "Estithmar",
+   "patterns": [
+    "elegancia"
+   ],
+   "known_for": ""
+  },
+  {
+   "name": "Al Mana Holding",
+   "group": "Al Mana",
+   "patterns": [
+    "al mana (?:holding|real estate|group)"
+   ],
+   "known_for": ""
+  },
+  {
+   "name": "Al Faisal Holding",
+   "group": "Al Faisal",
+   "patterns": [
+    "al faisal holding"
+   ],
+   "known_for": ""
+  },
+  {
+   "name": "Medina Real Estate",
+   "group": "Medina",
+   "patterns": [
+    "medina real estate"
+   ],
+   "known_for": ""
+  },
+  {
+   "name": "Al Wefaq",
+   "group": "Al Wefaq",
+   "patterns": [
+    "al[- ]wefaq",
+    "al[- ]wifaq"
+   ],
+   "known_for": "Energy City, Marina 07"
+  },
+  {
+   "name": "J Seven Real Estate",
+   "group": "J Seven",
+   "patterns": [
+    "j[- ]?seven",
+    "j7 real estate"
+   ],
+   "known_for": "Villa Verde, South Maison"
+  },
+  {
+   "name": "MK Residence",
+   "group": "MK Residence",
+   "patterns": [
+    "mk residence"
+   ],
+   "known_for": "The Gate, Fox Hills"
+  },
+  {
+   "name": "Shelter Group",
+   "group": "Shelter",
+   "patterns": [
+    "shelter group",
+    "shelter real estate"
+   ],
+   "known_for": "Lusail Marina Heights"
+  },
+  {
+   "name": "Le Mirage Real Estate",
+   "group": "Le Mirage",
+   "patterns": [
+    "le mirage real estate",
+    "le mirage development"
+   ],
+   "known_for": "Le Mirage Vida"
+  },
+  {
+   "name": "R.H.S.A.",
+   "group": "R.H.S.A.",
+   "patterns": [
+    "r\\.?h\\.?s\\.?a\\b"
+   ],
+   "known_for": "Rawah Residence"
+  },
+  {
+   "name": "Mart Real Estate",
+   "group": "Mart",
+   "patterns": [
+    "mart real estate"
+   ],
+   "known_for": "Blossom Residential Building"
+  },
+  {
+   "name": "Al Madar Real Estate",
+   "group": "Al Madar",
+   "patterns": [
+    "al[- ]?madar"
+   ],
+   "known_for": "Marina 22"
+  },
+  {
+   "name": "Aqar for you",
+   "group": "Aqar for you",
+   "patterns": [
+    "aqar for you"
+   ],
+   "known_for": "South Garden"
+  },
+  {
+   "name": "Bin Al Sheikh Holding Group",
+   "group": "Bin Al Sheikh",
+   "patterns": [
+    "bin al sheikh"
+   ],
+   "known_for": "Burj Al Marina"
+  },
+  {
+   "name": "SK properties",
+   "group": "Ariane / SK",
+   "patterns": [
+    "sk properties"
+   ],
+   "known_for": "The 44 Tower"
+  },
+  {
+   "name": "Skala Real Estate",
+   "group": "Skala",
+   "patterns": [
+    "skala (?:real estate|development|developers|group)"
+   ],
+   "known_for": "Skala Tower, Skala Villas"
+  },
+  {
+   "name": "Ariane Real Estate",
+   "group": "Ariane / SK",
+   "patterns": [
+    "ariane real estate",
+    "ariane assets"
+   ],
+   "known_for": "Boulevard View, City Avenue, Milos, Skala Villas, La Verde Lusail"
+  },
+  {
+   "name": "JMJ Group Holding",
+   "group": "JMJ",
+   "patterns": [
+    "\\bJMJ\\b"
+   ],
+   "known_for": "JMJ Waterfront Residences, The Grove, The OQ Residences"
+  },
+  {
+   "name": "Al Mirqab Living",
+   "group": "Al Mirqab",
+   "patterns": [
+    "al mirqab living"
+   ],
+   "known_for": "Al Mayyas (with TAAMEER)"
+  }
+ ]
+}

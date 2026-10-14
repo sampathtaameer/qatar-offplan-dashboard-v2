@@ -1,0 +1,5 @@
+{
+ "as_of": "2026-10-11",
+ "notes": "External supply figures by area and handover year. Tracked projects in projects.json are added automatically by the site; put only figures from other sources here (e.g. consultancy pipeline reports), each with source and as_of.",
+ "records": []
+}

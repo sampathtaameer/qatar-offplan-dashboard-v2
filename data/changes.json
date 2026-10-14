@@ -1,0 +1,40 @@
+{
+ "as_of": "2026-10-14",
+ "records": [
+  {
+   "date": "2026-10-14",
+   "items": [
+    {
+     "type": "data",
+     "text_en": "Full Property Finder scan: 3,226 off-plan sale listings across 476 pages. 138 projects added that are not in the New Projects section; 23 developer projects now also show broker listings.",
+     "text_ar": "مسح كامل لبروبرتي فايندر: 3,226 إعلان بيع على المخطط عبر 476 صفحة. أُضيف 138 مشروعاً غير موجود في قسم المشاريع الجديدة؛ و23 مشروعاً للمطورين تعرض الآن إعلانات الوسطاء أيضاً."
+    },
+    {
+     "type": "data",
+     "text_en": "Developer data: 3,226 listing descriptions read; 134 listings moved to the project their text names; developer now known for 20 of 137 broker-listing projects (agreed text, building name or sourced research); payment terms and handover filled where 3 brokers agree. See Changes > Needs review.",
+     "text_ar": "بيانات المطورين: قراءة 3,226 وصف إعلان؛ نقل 134 إعلاناً إلى المشروع المذكور في نصها؛ المطور معروف الآن لـ 20 من 137 مشروعاً من إعلانات الوسطاء؛ وتعبئة شروط الدفع والتسليم حيث يتفق 3 وسطاء. راجع التغييرات > تحتاج مراجعة."
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "items": [
+    {
+     "type": "data",
+     "text_en": "First build: 2,856 registered unit sales and 11,563 total registered sales (Jan 2025 to 1 Oct 2026) from the Ministry of Justice weekly bulletins.",
+     "text_ar": "الإصدار الأول: 2,856 عملية بيع وحدة سكنية مسجلة و11,563 عملية بيع إجمالية (من يناير 2025 حتى 1 أكتوبر 2026) من النشرات الأسبوعية لوزارة العدل."
+    },
+    {
+     "type": "data",
+     "text_en": "44 developer projects and 40 asking-rent benchmarks from Property Finder Qatar.",
+     "text_ar": "44 مشروعاً للمطورين و40 مؤشراً للإيجارات المعروضة من بروبرتي فايندر قطر."
+    },
+    {
+     "type": "rules",
+     "text_en": "Freehold areas updated to Cabinet Resolution 21 of 2026 (10 areas, including Simaisma).",
+     "text_ar": "تحديث مناطق التملك الحر وفق قرار مجلس الوزراء رقم 21 لسنة 2026 (10 مناطق منها سميسمة)."
+    }
+   ]
+  }
+ ]
+}

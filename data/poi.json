@@ -1,0 +1,3520 @@
+{
+ "as_of": "2026-10-11",
+ "source": "OpenStreetMap contributors (ODbL), via Overpass API",
+ "source_url": "https://www.openstreetmap.org/copyright",
+ "records": [
+  {
+   "id": "metro-n5079684559",
+   "type": "metro",
+   "name_en": "Qatar University",
+   "name_ar": "جامعة قطر",
+   "lat": 25.38234,
+   "lng": 51.493
+  },
+  {
+   "id": "metro-n5997671286",
+   "type": "metro",
+   "name_en": "Ras Bu Fontas",
+   "name_ar": "رأس بوفنطاس",
+   "lat": 25.21155,
+   "lng": 51.58648
+  },
+  {
+   "id": "metro-n5997671384",
+   "type": "metro",
+   "name_en": "Free Zone",
+   "name_ar": "المنطقة الاقتصادية",
+   "lat": 25.22847,
+   "lng": 51.5783
+  },
+  {
+   "id": "metro-n7052243283",
+   "type": "metro",
+   "name_en": "Lusail QNB",
+   "name_ar": "لوسيل QNB",
+   "lat": 25.41504,
+   "lng": 51.48774
+  },
+  {
+   "id": "metro-n7052290435",
+   "type": "metro",
+   "name_en": "Hamad International Airport",
+   "name_ar": "مطار حمد الدولي مبنى 1",
+   "lat": 25.25704,
+   "lng": 51.61486
+  },
+  {
+   "id": "metro-n7052555289",
+   "type": "metro",
+   "name_en": "Al Bidda",
+   "name_ar": "البدع",
+   "lat": 25.29126,
+   "lng": 51.52008
+  },
+  {
+   "id": "metro-n7052555290",
+   "type": "metro",
+   "name_en": "Hamad Hospital",
+   "name_ar": "مستشفى حمد",
+   "lat": 25.29054,
+   "lng": 51.50053
+  },
+  {
+   "id": "metro-n7052555306",
+   "type": "metro",
+   "name_en": "Al Riffa",
+   "name_ar": "الرفاع",
+   "lat": 25.32431,
+   "lng": 51.34799
+  },
+  {
+   "id": "metro-n7052555307",
+   "type": "metro",
+   "name_en": "Al Rayyan Al Qadeem",
+   "name_ar": "الريان القديم",
+   "lat": 25.3014,
+   "lng": 51.46091
+  },
+  {
+   "id": "metro-n7052555309",
+   "type": "metro",
+   "name_en": "Al Shaqab",
+   "name_ar": "الشقب",
+   "lat": 25.30935,
+   "lng": 51.45317
+  },
+  {
+   "id": "metro-n7052555311",
+   "type": "metro",
+   "name_en": "Qatar National Library",
+   "name_ar": "مكتبة قطر الوطنية",
+   "lat": 25.31933,
+   "lng": 51.44184
+  },
+  {
+   "id": "metro-n7052555312",
+   "type": "metro",
+   "name_en": "Education City",
+   "name_ar": "المدينة التعليمية",
+   "lat": 25.31708,
+   "lng": 51.4261
+  },
+  {
+   "id": "metro-n7052555313",
+   "type": "metro",
+   "name_en": "Al Mansoura",
+   "name_ar": "المنصورة",
+   "lat": 25.27045,
+   "lng": 51.53497
+  },
+  {
+   "id": "metro-n7052555315",
+   "type": "metro",
+   "name_en": "Al Messila",
+   "name_ar": "المسيلة",
+   "lat": 25.29316,
+   "lng": 51.48401
+  },
+  {
+   "id": "metro-n7053538427",
+   "type": "metro",
+   "name_en": "The White Palace",
+   "name_ar": "القصر الأبيض",
+   "lat": 25.29243,
+   "lng": 51.50602
+  },
+  {
+   "id": "metro-n7062658394",
+   "type": "metro",
+   "name_en": "Joaan",
+   "name_ar": "جوعان",
+   "lat": 25.28071,
+   "lng": 51.49693
+  },
+  {
+   "id": "metro-n9960498797",
+   "type": "metro",
+   "name_en": "National Museum",
+   "name_ar": "المتحف الوطني",
+   "lat": 25.28469,
+   "lng": 51.54934
+  },
+  {
+   "id": "metro-n11075856460",
+   "type": "metro",
+   "name_en": "Sport City",
+   "name_ar": "المدينة الرياضية",
+   "lat": 25.25937,
+   "lng": 51.45246
+  },
+  {
+   "id": "metro-n11075856461",
+   "type": "metro",
+   "name_en": "Umm Ghuwailina",
+   "name_ar": "أم غويلينة",
+   "lat": 25.26941,
+   "lng": 51.54943
+  },
+  {
+   "id": "metro-n11075856462",
+   "type": "metro",
+   "name_en": "West Bay",
+   "name_ar": "الخليج الغربي",
+   "lat": 25.31515,
+   "lng": 51.51982
+  },
+  {
+   "id": "metro-n12396311895",
+   "type": "metro",
+   "name_en": "Msheireb",
+   "name_ar": "مشيرب",
+   "lat": 25.28282,
+   "lng": 51.52558
+  },
+  {
+   "id": "metro-w684433706",
+   "type": "metro",
+   "name_en": "Al Wakra",
+   "name_ar": "الوكرة",
+   "lat": 25.19359,
+   "lng": 51.59606
+  },
+  {
+   "id": "metro-w684433712",
+   "type": "metro",
+   "name_en": "Oqba Ibn Nafie",
+   "name_ar": "عقبة بن نافع",
+   "lat": 25.24965,
+   "lng": 51.5668
+  },
+  {
+   "id": "metro-w684433714",
+   "type": "metro",
+   "name_en": "Al Matar Al Qadeem",
+   "name_ar": "المطار القديم",
+   "lat": 25.26342,
+   "lng": 51.55809
+  },
+  {
+   "id": "metro-w684433716",
+   "type": "metro",
+   "name_en": "Al Doha Al Jadeda",
+   "name_ar": "الدوحة الجديدة",
+   "lat": 25.2748,
+   "lng": 51.53968
+  },
+  {
+   "id": "metro-w684433721",
+   "type": "metro",
+   "name_en": "Souq Waqif",
+   "name_ar": "سوق واقف",
+   "lat": 25.28661,
+   "lng": 51.53621
+  },
+  {
+   "id": "metro-w684437105",
+   "type": "metro",
+   "name_en": "DECC",
+   "name_ar": "مركز المعارض",
+   "lat": 25.32338,
+   "lng": 51.52844
+  },
+  {
+   "id": "metro-w684437117",
+   "type": "metro",
+   "name_en": "Corniche",
+   "name_ar": "الكورنيش",
+   "lat": 25.30762,
+   "lng": 51.51572
+  },
+  {
+   "id": "metro-w684438146",
+   "type": "metro",
+   "name_en": "Katara",
+   "name_ar": "كتارا",
+   "lat": 25.3621,
+   "lng": 51.52171
+  },
+  {
+   "id": "metro-w684438147",
+   "type": "metro",
+   "name_en": "Al Qassar",
+   "name_ar": "القصار",
+   "lat": 25.35014,
+   "lng": 51.524
+  },
+  {
+   "id": "metro-w684480139",
+   "type": "metro",
+   "name_en": "Legtaifiya",
+   "name_ar": "لقطيفية",
+   "lat": 25.37085,
+   "lng": 51.52484
+  },
+  {
+   "id": "metro-w684485415",
+   "type": "metro",
+   "name_en": "Bin Mahmoud",
+   "name_ar": "بن محمود",
+   "lat": 25.28043,
+   "lng": 51.51494
+  },
+  {
+   "id": "metro-w684485424",
+   "type": "metro",
+   "name_en": "Al Sadd",
+   "name_ar": "السد",
+   "lat": 25.28242,
+   "lng": 51.50504
+  },
+  {
+   "id": "metro-w684487486",
+   "type": "metro",
+   "name_en": "Al Aziziyah",
+   "name_ar": "العزيزية",
+   "lat": 25.25766,
+   "lng": 51.44414
+  },
+  {
+   "id": "metro-w684487493",
+   "type": "metro",
+   "name_en": "Al Waab",
+   "name_ar": "الوعب",
+   "lat": 25.26757,
+   "lng": 51.46883
+  },
+  {
+   "id": "metro-w684487501",
+   "type": "metro",
+   "name_en": "Al Sudan",
+   "name_ar": "السودان",
+   "lat": 25.27274,
+   "lng": 51.48525
+  },
+  {
+   "id": "metro-w684494003",
+   "type": "metro",
+   "name_en": "Ras Bu Abboud",
+   "name_ar": "راس بو عبود",
+   "lat": 25.27904,
+   "lng": 51.57085
+  },
+  {
+   "id": "school-n2163295902",
+   "type": "school",
+   "name_en": "University of Doha for Science and Technology (UDST)",
+   "name_ar": "University of Doha for Science and Technology (UDST)",
+   "lat": 25.35932,
+   "lng": 51.47962
+  },
+  {
+   "id": "school-n2548268181",
+   "type": "school",
+   "name_en": "Shantiniketan Indian School",
+   "name_ar": "Shantiniketan Indian School",
+   "lat": 25.21379,
+   "lng": 51.57808
+  },
+  {
+   "id": "school-n2749437208",
+   "type": "school",
+   "name_en": "Doha College West Bay",
+   "name_ar": "Doha College West Bay",
+   "lat": 25.3362,
+   "lng": 51.51017
+  },
+  {
+   "id": "school-n2784784994",
+   "type": "school",
+   "name_en": "Al Wataniya International School (AWIS)",
+   "name_ar": "Al Wataniya International School (AWIS)",
+   "lat": 25.3712,
+   "lng": 51.49913
+  },
+  {
+   "id": "school-n4238993695",
+   "type": "school",
+   "name_en": "HBKU Research Complex",
+   "name_ar": "HBKU Research Complex",
+   "lat": 25.32087,
+   "lng": 51.42432
+  },
+  {
+   "id": "school-n4305511191",
+   "type": "school",
+   "name_en": "Al Rayah Driving School",
+   "name_ar": "Al Rayah Driving School",
+   "lat": 25.30256,
+   "lng": 51.48585
+  },
+  {
+   "id": "school-n4344849090",
+   "type": "school",
+   "name_en": "Pearl School",
+   "name_ar": "Pearl School",
+   "lat": 25.23671,
+   "lng": 51.55039
+  },
+  {
+   "id": "school-n4406331793",
+   "type": "school",
+   "name_en": "noble international school",
+   "name_ar": "noble international school",
+   "lat": 25.23114,
+   "lng": 51.49456
+  },
+  {
+   "id": "school-n4406335291",
+   "type": "school",
+   "name_en": "park",
+   "name_ar": "park",
+   "lat": 25.23229,
+   "lng": 51.49438
+  },
+  {
+   "id": "school-n4417284101",
+   "type": "school",
+   "name_en": "ali bin jassim secondary school for boys",
+   "name_ar": "ali bin jassim secondary school for boys",
+   "lat": 25.32889,
+   "lng": 51.38725
+  },
+  {
+   "id": "school-n4550430691",
+   "type": "school",
+   "name_en": "Maria Al Qibteya Prep.",
+   "name_ar": "ماريا القبطية الاعدادية",
+   "lat": 25.44835,
+   "lng": 51.43744
+  },
+  {
+   "id": "school-n4720148889",
+   "type": "school",
+   "name_en": "Barwa commercial avenue",
+   "name_ar": "Barwa commercial avenue",
+   "lat": 25.20462,
+   "lng": 51.44757
+  },
+  {
+   "id": "school-n4774499934",
+   "type": "school",
+   "name_en": "GHERAS INTERNATIONAL SCHOOL",
+   "name_ar": "GHERAS INTERNATIONAL SCHOOL",
+   "lat": 25.34981,
+   "lng": 51.44584
+  },
+  {
+   "id": "school-n4779516766",
+   "type": "school",
+   "name_en": "La Villa Hospitality",
+   "name_ar": "La Villa Hospitality",
+   "lat": 25.26321,
+   "lng": 51.52795
+  },
+  {
+   "id": "school-n4831717294",
+   "type": "school",
+   "name_en": "American Lycetuff Pre - School",
+   "name_ar": "American Lycetuff Pre - School",
+   "lat": 25.26444,
+   "lng": 51.48358
+  },
+  {
+   "id": "school-n5659325221",
+   "type": "school",
+   "name_en": "مدرسة ام هاني الابتدائية للبنات",
+   "name_ar": "مدرسة ام هاني الابتدائية للبنات",
+   "lat": 25.19736,
+   "lng": 51.36566
+  },
+  {
+   "id": "school-n5830307085",
+   "type": "school",
+   "name_en": "مدرسة ايبلا الدولية",
+   "name_ar": "مدرسة ايبلا الدولية",
+   "lat": 25.3153,
+   "lng": 51.46763
+  },
+  {
+   "id": "school-n7719964577",
+   "type": "school",
+   "name_en": "Al Shoumoukh International Academy",
+   "name_ar": "Al Shoumoukh International Academy",
+   "lat": 25.43001,
+   "lng": 51.47726
+  },
+  {
+   "id": "school-n8635305117",
+   "type": "school",
+   "name_en": "PISQ  Philippine International School Qatar",
+   "name_ar": "PISQ  Philippine International School Qatar",
+   "lat": 25.21801,
+   "lng": 51.44189
+  },
+  {
+   "id": "school-n8635856526",
+   "type": "school",
+   "name_en": "RGS",
+   "name_ar": "RGS",
+   "lat": 25.4214,
+   "lng": 51.41551
+  },
+  {
+   "id": "school-n10223166817",
+   "type": "school",
+   "name_en": "نجم قطر",
+   "name_ar": "نجم قطر",
+   "lat": 25.28337,
+   "lng": 51.43429
+  },
+  {
+   "id": "school-n11238534671",
+   "type": "school",
+   "name_en": "DPS-Monarch International School",
+   "name_ar": "دي بي اس-مدرسة مونارك الدولية",
+   "lat": 25.14908,
+   "lng": 51.53451
+  },
+  {
+   "id": "school-w139710774",
+   "type": "school",
+   "name_en": "NAFSA Independent Preparatory School for Girls",
+   "name_ar": "NAFSA Independent Preparatory School for Girls",
+   "lat": 25.27428,
+   "lng": 51.52865
+  },
+  {
+   "id": "school-w140485650",
+   "type": "school",
+   "name_en": "International Centre for Music",
+   "name_ar": "International Centre for Music",
+   "lat": 25.25148,
+   "lng": 51.54257
+  },
+  {
+   "id": "school-w152182574",
+   "type": "school",
+   "name_en": "Aspire Academy",
+   "name_ar": "Aspire Academy",
+   "lat": 25.26775,
+   "lng": 51.44367
+  },
+  {
+   "id": "school-w155151644",
+   "type": "school",
+   "name_en": "Doha British School",
+   "name_ar": "Doha British School",
+   "lat": 25.24178,
+   "lng": 51.46655
+  },
+  {
+   "id": "school-w156621204",
+   "type": "school",
+   "name_en": "Birla Public School",
+   "name_ar": "Birla Public School",
+   "lat": 25.25529,
+   "lng": 51.51817
+  },
+  {
+   "id": "school-w157075896",
+   "type": "school",
+   "name_en": "Cambridge International School",
+   "name_ar": "Cambridge International School",
+   "lat": 25.2443,
+   "lng": 51.53753
+  },
+  {
+   "id": "school-w163596829",
+   "type": "school",
+   "name_en": "Tariq Bin Ziad School",
+   "name_ar": "Tariq Bin Ziad School",
+   "lat": 25.25987,
+   "lng": 51.50896
+  },
+  {
+   "id": "school-w163700001",
+   "type": "school",
+   "name_en": "Maymouna Independent Primary School for Girls",
+   "name_ar": "Maymouna Independent Primary School for Girls",
+   "lat": 25.253,
+   "lng": 51.5397
+  },
+  {
+   "id": "school-w165818877",
+   "type": "school",
+   "name_en": "Hafsa Independent Preparatory School for Girls",
+   "name_ar": "Hafsa Independent Preparatory School for Girls",
+   "lat": 25.26637,
+   "lng": 51.50976
+  },
+  {
+   "id": "school-w206315428",
+   "type": "school",
+   "name_en": "American School of Doha",
+   "name_ar": "American School of Doha",
+   "lat": 25.26342,
+   "lng": 51.48122
+  },
+  {
+   "id": "school-w222673567",
+   "type": "school",
+   "name_en": "Doha English Speaking School",
+   "name_ar": "مدرسة الدوحة للغة الإنجليزية",
+   "lat": 25.3149,
+   "lng": 51.49061
+  },
+  {
+   "id": "school-w224833557",
+   "type": "school",
+   "name_en": "International School of London Qatar",
+   "name_ar": "International School of London Qatar",
+   "lat": 25.39839,
+   "lng": 51.45039
+  },
+  {
+   "id": "school-w234536267",
+   "type": "school",
+   "name_en": "Newton International School",
+   "name_ar": "Newton International School",
+   "lat": 25.35792,
+   "lng": 51.51645
+  },
+  {
+   "id": "school-w242713202",
+   "type": "school",
+   "name_en": "Birla Public School",
+   "name_ar": "Birla Public School",
+   "lat": 25.2111,
+   "lng": 51.52296
+  },
+  {
+   "id": "school-w243159243",
+   "type": "school",
+   "name_en": "Pak Shama School",
+   "name_ar": "Pak Shama School",
+   "lat": 25.21092,
+   "lng": 51.52188
+  },
+  {
+   "id": "school-w246113386",
+   "type": "school",
+   "name_en": "M.E.S Indian School",
+   "name_ar": "M.E.S Indian School",
+   "lat": 25.23569,
+   "lng": 51.50587
+  },
+  {
+   "id": "school-w246236331",
+   "type": "school",
+   "name_en": "Ali Bin Abi Taleb School",
+   "name_ar": "Ali Bin Abi Taleb School",
+   "lat": 25.22668,
+   "lng": 51.54061
+  },
+  {
+   "id": "school-w246236376",
+   "type": "school",
+   "name_en": "Moza Bint Mohammed Preparatory Independent School",
+   "name_ar": "Moza Bint Mohammed Preparatory Independent School",
+   "lat": 25.22901,
+   "lng": 51.54961
+  },
+  {
+   "id": "school-w246236447",
+   "type": "school",
+   "name_en": "Al Wafaa Model Independent School for Boys",
+   "name_ar": "Al Wafaa Model Independent School for Boys",
+   "lat": 25.23523,
+   "lng": 51.54456
+  },
+  {
+   "id": "school-w246735899",
+   "type": "school",
+   "name_en": "Philippine School Doha",
+   "name_ar": "Philippine School Doha",
+   "lat": 25.30389,
+   "lng": 51.47817
+  },
+  {
+   "id": "school-w246735938",
+   "type": "school",
+   "name_en": "Al-Yarmouk Independent Preparatory School For Boys",
+   "name_ar": "Al-Yarmouk Independent Preparatory School For Boys",
+   "lat": 25.3031,
+   "lng": 51.49163
+  },
+  {
+   "id": "school-w246735939",
+   "type": "school",
+   "name_en": "Khawla Bint Al Azwar Independent Primary School For Girls",
+   "name_ar": "Khawla Bint Al Azwar Independent Primary School For Girls",
+   "lat": 25.31298,
+   "lng": 51.47489
+  },
+  {
+   "id": "school-w246735941",
+   "type": "school",
+   "name_en": "Amna Bint Wahab Independent Preparatory School",
+   "name_ar": "Amna Bint Wahab Independent Preparatory School",
+   "lat": 25.29919,
+   "lng": 51.48777
+  },
+  {
+   "id": "school-w246735947",
+   "type": "school",
+   "name_en": "Khalifa Model Independent School For Boys",
+   "name_ar": "Khalifa Model Independent School For Boys",
+   "lat": 25.30913,
+   "lng": 51.47587
+  },
+  {
+   "id": "school-w247909087",
+   "type": "school",
+   "name_en": "Omar Bin Al Khattab Independent Sientific Sec. School for Boys",
+   "name_ar": "Omar Bin Al Khattab Independent Sientific Sec. School for Boys",
+   "lat": 25.3064,
+   "lng": 51.50108
+  },
+  {
+   "id": "school-w247909088",
+   "type": "school",
+   "name_en": "Omar Bin Alkhattab Independent Secondary School for Boys",
+   "name_ar": "Omar Bin Alkhattab Independent Secondary School for Boys",
+   "lat": 25.30598,
+   "lng": 51.49985
+  },
+  {
+   "id": "school-w248760557",
+   "type": "school",
+   "name_en": "Abu Obaida Independent Preparatory School",
+   "name_ar": "Abu Obaida Independent Preparatory School",
+   "lat": 25.34636,
+   "lng": 51.42277
+  },
+  {
+   "id": "school-w248764813",
+   "type": "school",
+   "name_en": "English Gulf School",
+   "name_ar": "مدرسة الخليج الانجليزية",
+   "lat": 25.34019,
+   "lng": 51.44956
+  },
+  {
+   "id": "school-w248764903",
+   "type": "school",
+   "name_en": "Independent Secodry School For Boys",
+   "name_ar": "Independent Secodry School For Boys",
+   "lat": 25.33695,
+   "lng": 51.454
+  },
+  {
+   "id": "school-w249465824",
+   "type": "school",
+   "name_en": "ACS Doha International School",
+   "name_ar": "ACS Doha International School",
+   "lat": 25.33145,
+   "lng": 51.45626
+  },
+  {
+   "id": "school-w249605612",
+   "type": "school",
+   "name_en": "مدرسة الخوارزمي الابتدائية للبنات",
+   "name_ar": "مدرسة الخوارزمي الابتدائية للبنات",
+   "lat": 25.32934,
+   "lng": 51.44268
+  },
+  {
+   "id": "school-w250867723",
+   "type": "school",
+   "name_en": "DPS MIS Indian School",
+   "name_ar": "DPS MIS Indian School",
+   "lat": 25.17412,
+   "lng": 51.60302
+  },
+  {
+   "id": "school-w250867798",
+   "type": "school",
+   "name_en": "Abdul Rahman bin Jassim preparatory School, Wakra",
+   "name_ar": "Abdul Rahman bin Jassim preparatory School, Wakra",
+   "lat": 25.17314,
+   "lng": 51.60087
+  },
+  {
+   "id": "school-w250959014",
+   "type": "school",
+   "name_en": "Musaiba Bent Kaab Independent Primary Girls School",
+   "name_ar": "Musaiba Bent Kaab Independent Primary Girls School",
+   "lat": 25.21247,
+   "lng": 51.4748
+  },
+  {
+   "id": "school-w250960099",
+   "type": "school",
+   "name_en": "Abi Ayub Al-Anseri Model Independent School for Boys",
+   "name_ar": "Abi Ayub Al-Anseri Model Independent School for Boys",
+   "lat": 25.20701,
+   "lng": 51.47814
+  },
+  {
+   "id": "school-w250960278",
+   "type": "school",
+   "name_en": "Al Aqsa Independent Preparatory Schools for Girls",
+   "name_ar": "Al Aqsa Independent Preparatory Schools for Girls",
+   "lat": 25.2106,
+   "lng": 51.48795
+  },
+  {
+   "id": "school-w250962042",
+   "type": "school",
+   "name_en": "Bangladesh School",
+   "name_ar": "Bangladesh School",
+   "lat": 25.22369,
+   "lng": 51.49378
+  },
+  {
+   "id": "school-w251038852",
+   "type": "school",
+   "name_en": "Al Wakra Independent Preparatory School for Girls",
+   "name_ar": "Al Wakra Independent Preparatory School for Girls",
+   "lat": 25.18557,
+   "lng": 51.58943
+  },
+  {
+   "id": "school-w260991766",
+   "type": "school",
+   "name_en": "Al-Shrouq School",
+   "name_ar": "Al-Shrouq School",
+   "lat": 25.18006,
+   "lng": 51.59889
+  },
+  {
+   "id": "school-w318297451",
+   "type": "school",
+   "name_en": "Al-Wakra Independent School",
+   "name_ar": "Al-Wakra Independent School",
+   "lat": 25.18879,
+   "lng": 51.61217
+  },
+  {
+   "id": "school-w318298094",
+   "type": "school",
+   "name_en": "Saud Bin Abdul Rahaman Boys Independent School",
+   "name_ar": "Saud Bin Abdul Rahaman Boys Independent School",
+   "lat": 25.18845,
+   "lng": 51.61029
+  },
+  {
+   "id": "school-w318309920",
+   "type": "school",
+   "name_en": "VIS - Vision International School",
+   "name_ar": "VIS - Vision International School",
+   "lat": 25.17724,
+   "lng": 51.5916
+  },
+  {
+   "id": "school-w322565239",
+   "type": "school",
+   "name_en": "Bright Future International School",
+   "name_ar": "Bright Future International School",
+   "lat": 25.22333,
+   "lng": 51.49476
+  },
+  {
+   "id": "school-w322565249",
+   "type": "school",
+   "name_en": "Qatar Technical School",
+   "name_ar": "Qatar Technical School",
+   "lat": 25.22522,
+   "lng": 51.49857
+  },
+  {
+   "id": "school-w322565251",
+   "type": "school",
+   "name_en": "Ideal Indian School",
+   "name_ar": "Ideal Indian School",
+   "lat": 25.22279,
+   "lng": 51.5005
+  },
+  {
+   "id": "school-w322565259",
+   "type": "school",
+   "name_en": "Doha Independent Secondary School for Boys",
+   "name_ar": "Doha Independent Secondary School for Boys",
+   "lat": 25.21646,
+   "lng": 51.49391
+  },
+  {
+   "id": "school-w322583251",
+   "type": "school",
+   "name_en": "German International School Doha",
+   "name_ar": "المدرسة الألمانية الدولية بالدوحة",
+   "lat": 25.25566,
+   "lng": 51.50111
+  },
+  {
+   "id": "school-w322583272",
+   "type": "school",
+   "name_en": "Khadeeja Bint Khuwailid Independent Primary School",
+   "name_ar": "Khadeeja Bint Khuwailid Independent Primary School",
+   "lat": 25.25274,
+   "lng": 51.5022
+  },
+  {
+   "id": "school-w322583292",
+   "type": "school",
+   "name_en": "The Egyptian Language School",
+   "name_ar": "The Egyptian Language School",
+   "lat": 25.24718,
+   "lng": 51.50075
+  },
+  {
+   "id": "school-w322589370",
+   "type": "school",
+   "name_en": "Al Bayam Educational Complex",
+   "name_ar": "Al Bayam Educational Complex",
+   "lat": 25.2214,
+   "lng": 51.47468
+  },
+  {
+   "id": "school-w325387106",
+   "type": "school",
+   "name_en": "DeBakey High School",
+   "name_ar": "DeBakey High School",
+   "lat": 25.29918,
+   "lng": 51.48597
+  },
+  {
+   "id": "school-w390411331",
+   "type": "school",
+   "name_en": "Doha College",
+   "name_ar": "Doha College",
+   "lat": 25.26035,
+   "lng": 51.48322
+  },
+  {
+   "id": "school-w397452373",
+   "type": "school",
+   "name_en": "Newton British School",
+   "name_ar": "Newton British School",
+   "lat": 25.25808,
+   "lng": 51.45647
+  },
+  {
+   "id": "school-w479162116",
+   "type": "school",
+   "name_en": "Sumaya Primary Independent School for Girls",
+   "name_ar": "Sumaya Primary Independent School for Girls",
+   "lat": 25.267,
+   "lng": 51.51143
+  },
+  {
+   "id": "school-w483074578",
+   "type": "school",
+   "name_en": "Newton International School",
+   "name_ar": "Newton International School",
+   "lat": 25.25345,
+   "lng": 51.51847
+  },
+  {
+   "id": "school-w483074579",
+   "type": "school",
+   "name_en": "Noor Al-Khaleej International School",
+   "name_ar": "Noor Al-Khaleej International School",
+   "lat": 25.25354,
+   "lng": 51.51693
+  },
+  {
+   "id": "school-w485365910",
+   "type": "school",
+   "name_en": "Shantiniketan Indian School",
+   "name_ar": "Shantiniketan Indian School",
+   "lat": 25.26628,
+   "lng": 51.53567
+  },
+  {
+   "id": "school-w488503082",
+   "type": "school",
+   "name_en": "Ibn Al Haitham Primary Independent School for Boys",
+   "name_ar": "Ibn Al Haitham Primary Independent School for Boys",
+   "lat": 25.24094,
+   "lng": 51.56215
+  },
+  {
+   "id": "school-w489382060",
+   "type": "school",
+   "name_en": "Al Leman Secondary Independent School",
+   "name_ar": "Al Leman Secondary Independent School",
+   "lat": 25.24254,
+   "lng": 51.50984
+  },
+  {
+   "id": "school-w489382064",
+   "type": "school",
+   "name_en": "The Cambridge School",
+   "name_ar": "The Cambridge School",
+   "lat": 25.24532,
+   "lng": 51.50465
+  },
+  {
+   "id": "school-w489384574",
+   "type": "school",
+   "name_en": "Brighton International Academy",
+   "name_ar": "Brighton International Academy",
+   "lat": 25.24917,
+   "lng": 51.4985
+  },
+  {
+   "id": "school-w489422853",
+   "type": "school",
+   "name_en": "Rajagiri Public School",
+   "name_ar": "Rajagiri Public School",
+   "lat": 25.23953,
+   "lng": 51.50655
+  },
+  {
+   "id": "school-w489448760",
+   "type": "school",
+   "name_en": "The Phoenix Private School",
+   "name_ar": "The Phoenix Private School",
+   "lat": 25.25799,
+   "lng": 51.48994
+  },
+  {
+   "id": "school-w489603732",
+   "type": "school",
+   "name_en": "Al Arqam Academy For Girls",
+   "name_ar": "Al Arqam Academy For Girls",
+   "lat": 25.25021,
+   "lng": 51.48279
+  },
+  {
+   "id": "school-w489605879",
+   "type": "school",
+   "name_en": "Key of Education International School",
+   "name_ar": "Key of Education International School",
+   "lat": 25.25139,
+   "lng": 51.48558
+  },
+  {
+   "id": "school-w489608229",
+   "type": "school",
+   "name_en": "Al Ahnaf Bin Qais Independent School",
+   "name_ar": "مدرسة الأحنف بن قيس المستقلة",
+   "lat": 25.35692,
+   "lng": 51.50398
+  },
+  {
+   "id": "school-w489612908",
+   "type": "school",
+   "name_en": "Abi Hanifa Model School for Boys",
+   "name_ar": "مدرسة أبي حنيفة النموذجية للبنين",
+   "lat": 25.35692,
+   "lng": 51.50687
+  },
+  {
+   "id": "school-w489623298",
+   "type": "school",
+   "name_en": "Philippines international school qatar",
+   "name_ar": "Philippines international school qatar",
+   "lat": 25.21801,
+   "lng": 51.44164
+  },
+  {
+   "id": "school-w489623299",
+   "type": "school",
+   "name_en": "Al Maha Academy for Boys",
+   "name_ar": "Al Maha Academy for Boys",
+   "lat": 25.21853,
+   "lng": 51.44257
+  },
+  {
+   "id": "school-w489623300",
+   "type": "school",
+   "name_en": "Al Maha Academy for Girls",
+   "name_ar": "Al Maha Academy for Girls",
+   "lat": 25.21921,
+   "lng": 51.44379
+  },
+  {
+   "id": "school-w489625255",
+   "type": "school",
+   "name_en": "Turkish School",
+   "name_ar": "Turkish School",
+   "lat": 25.23483,
+   "lng": 51.46942
+  },
+  {
+   "id": "school-w489625279",
+   "type": "school",
+   "name_en": "Arab International Academy",
+   "name_ar": "الأكاديمية العربية الدولية",
+   "lat": 25.28593,
+   "lng": 51.49184
+  },
+  {
+   "id": "school-w489627219",
+   "type": "school",
+   "name_en": "Ministry of Endowment & Islamic Affairs Housing Scholarship Students",
+   "name_ar": "Ministry of Endowment & Islamic Affairs Housing Scholarship Students",
+   "lat": 25.22206,
+   "lng": 51.4624
+  },
+  {
+   "id": "school-w489629844",
+   "type": "school",
+   "name_en": "International School of Choueifat",
+   "name_ar": "International School of Choueifat",
+   "lat": 25.35368,
+   "lng": 51.51311
+  },
+  {
+   "id": "school-w489632389",
+   "type": "school",
+   "name_en": "Al Jazeera Academy",
+   "name_ar": "Al Jazeera Academy",
+   "lat": 25.23041,
+   "lng": 51.50338
+  },
+  {
+   "id": "school-w489851177",
+   "type": "school",
+   "name_en": "Bible International Preparatory Scool",
+   "name_ar": "Bible International Preparatory Scool",
+   "lat": 25.20883,
+   "lng": 51.4687
+  },
+  {
+   "id": "school-w489866407",
+   "type": "school",
+   "name_en": "Eadad International Academy",
+   "name_ar": "Eadad International Academy",
+   "lat": 25.21161,
+   "lng": 51.44643
+  },
+  {
+   "id": "school-w489924055",
+   "type": "school",
+   "name_en": "Compass International School Doha",
+   "name_ar": "Compass International School Doha",
+   "lat": 25.32529,
+   "lng": 51.45066
+  },
+  {
+   "id": "school-w490451029",
+   "type": "school",
+   "name_en": "Omar Bin Abdulaziz Independent Secondary School For Boys",
+   "name_ar": "Omar Bin Abdulaziz Independent Secondary School For Boys",
+   "lat": 25.332,
+   "lng": 51.48338
+  },
+  {
+   "id": "school-w490451504",
+   "type": "school",
+   "name_en": "Amna Mahmoud Al Jeddah Primary Independent School For Girls",
+   "name_ar": "Amna Mahmoud Al Jeddah Primary Independent School For Girls",
+   "lat": 25.35274,
+   "lng": 51.47754
+  },
+  {
+   "id": "school-w490451505",
+   "type": "school",
+   "name_en": "Al-Rashad Primary Independent School For Boys",
+   "name_ar": "Al-Rashad Primary Independent School For Boys",
+   "lat": 25.35387,
+   "lng": 51.47755
+  },
+  {
+   "id": "school-w490588115",
+   "type": "school",
+   "name_en": "Qatar International School",
+   "name_ar": "Qatar International School",
+   "lat": 25.32899,
+   "lng": 51.52145
+  },
+  {
+   "id": "school-w490596200",
+   "type": "school",
+   "name_en": "The Lebanese School",
+   "name_ar": "The Lebanese School",
+   "lat": 25.32767,
+   "lng": 51.52145
+  },
+  {
+   "id": "school-w490597736",
+   "type": "school",
+   "name_en": "Lycee Francais Bonaparte",
+   "name_ar": "Lycee Francais Bonaparte",
+   "lat": 25.32634,
+   "lng": 51.52143
+  },
+  {
+   "id": "school-w490718082",
+   "type": "school",
+   "name_en": "Primary School for Boys",
+   "name_ar": "Primary School for Boys",
+   "lat": 25.32005,
+   "lng": 51.50576
+  },
+  {
+   "id": "school-w490769516",
+   "type": "school",
+   "name_en": "Eton Learning Center",
+   "name_ar": "Eton Learning Center",
+   "lat": 25.3407,
+   "lng": 51.46527
+  },
+  {
+   "id": "school-w490778855",
+   "type": "school",
+   "name_en": "Gharnatah Preparatory Independent School for girls",
+   "name_ar": "Gharnatah Preparatory Independent School for girls",
+   "lat": 25.32895,
+   "lng": 51.51192
+  },
+  {
+   "id": "school-w490954964",
+   "type": "school",
+   "name_en": "Zahrit Ind. Primary Schol for Girls",
+   "name_ar": "Zahrit Ind. Primary Schol for Girls",
+   "lat": 25.37763,
+   "lng": 51.46538
+  },
+  {
+   "id": "school-w490998036",
+   "type": "school",
+   "name_en": "Loyola International School",
+   "name_ar": "Loyola International School",
+   "lat": 25.26803,
+   "lng": 51.49634
+  },
+  {
+   "id": "school-w491004289",
+   "type": "school",
+   "name_en": "International British School",
+   "name_ar": "International British School",
+   "lat": 25.38985,
+   "lng": 51.45311
+  },
+  {
+   "id": "school-w491005643",
+   "type": "school",
+   "name_en": "Hetteer Model Independent School Boys",
+   "name_ar": "Hetteer Model Independent School Boys",
+   "lat": 25.26977,
+   "lng": 51.47892
+  },
+  {
+   "id": "school-w491020890",
+   "type": "school",
+   "name_en": "Al-Bayan Education Complex",
+   "name_ar": "Al-Bayan Education Complex",
+   "lat": 25.3452,
+   "lng": 51.49524
+  },
+  {
+   "id": "school-w491020893",
+   "type": "school",
+   "name_en": "Omar Bin Al-Khattab Independent Second Primary School For Boys",
+   "name_ar": "Omar Bin Al-Khattab Independent Second Primary School For Boys",
+   "lat": 25.34519,
+   "lng": 51.49708
+  },
+  {
+   "id": "school-w491140211",
+   "type": "school",
+   "name_en": "Leaders International School",
+   "name_ar": "Leaders International School",
+   "lat": 25.23178,
+   "lng": 51.45564
+  },
+  {
+   "id": "school-w491149599",
+   "type": "school",
+   "name_en": "Pakistan International School",
+   "name_ar": "Pakistan International School",
+   "lat": 25.23154,
+   "lng": 51.50137
+  },
+  {
+   "id": "school-w491206148",
+   "type": "school",
+   "name_en": "Spectra Global School",
+   "name_ar": "Spectra Global School",
+   "lat": 25.34651,
+   "lng": 51.47537
+  },
+  {
+   "id": "school-w491403666",
+   "type": "school",
+   "name_en": "Hetteen Model Independent School Boys",
+   "name_ar": "Hetteen Model Independent School Boys",
+   "lat": 25.24959,
+   "lng": 51.44183
+  },
+  {
+   "id": "school-w491444234",
+   "type": "school",
+   "name_en": "Al-Bayan Independent Secondary School For Girls",
+   "name_ar": "Al-Bayan Independent Secondary School For Girls",
+   "lat": 25.31408,
+   "lng": 51.48864
+  },
+  {
+   "id": "school-w491585528",
+   "type": "school",
+   "name_en": "Al-Imam Al-Shafel Independent Preparatory School for Boys",
+   "name_ar": "Al-Imam Al-Shafel Independent Preparatory School for Boys",
+   "lat": 25.24101,
+   "lng": 51.40331
+  },
+  {
+   "id": "school-w491627949",
+   "type": "school",
+   "name_en": "Al Ertiqa Center for Education",
+   "name_ar": "Al Ertiqa Center for Education",
+   "lat": 25.24557,
+   "lng": 51.44419
+  },
+  {
+   "id": "school-w491629152",
+   "type": "school",
+   "name_en": "Hamza Independent",
+   "name_ar": "Hamza Independent",
+   "lat": 25.27898,
+   "lng": 51.5125
+  },
+  {
+   "id": "school-w491652922",
+   "type": "school",
+   "name_en": "Hajar Primary Independent Kindergarten For Girls",
+   "name_ar": "Hajar Primary Independent Kindergarten For Girls",
+   "lat": 25.23326,
+   "lng": 51.3845
+  },
+  {
+   "id": "school-w491655071",
+   "type": "school",
+   "name_en": "Hajar Independent Kindergarten For Girls",
+   "name_ar": "Hajar Independent Kindergarten For Girls",
+   "lat": 25.2338,
+   "lng": 51.38261
+  },
+  {
+   "id": "school-w492147980",
+   "type": "school",
+   "name_en": "Omm Mabed Independent School",
+   "name_ar": "Omm Mabed Independent School",
+   "lat": 25.24241,
+   "lng": 51.38048
+  },
+  {
+   "id": "school-w677386917",
+   "type": "school",
+   "name_en": "Newton International Academy Pearl Annex",
+   "name_ar": "Newton International Academy Pearl Annex",
+   "lat": 25.19516,
+   "lng": 51.49727
+  },
+  {
+   "id": "school-w948724906",
+   "type": "school",
+   "name_en": "French school (under construction)",
+   "name_ar": "French school (under construction)",
+   "lat": 25.40764,
+   "lng": 51.50754
+  },
+  {
+   "id": "school-w952194083",
+   "type": "school",
+   "name_en": "Lycée Franco Qatari Voltaire - Salwa",
+   "name_ar": "Lycée Franco Qatari Voltaire - Salwa",
+   "lat": 25.24825,
+   "lng": 51.46562
+  },
+  {
+   "id": "school-w993640894",
+   "type": "school",
+   "name_en": "Doha Institute for Graduate Studies",
+   "name_ar": "معهد الدوحة للدراسات العليا",
+   "lat": 25.38771,
+   "lng": 51.483
+  },
+  {
+   "id": "school-w1031590529",
+   "type": "school",
+   "name_en": "Sawda Bint Zamaa Preparatory School for Girls",
+   "name_ar": "مدرسة سودة بنت زمعة الاعدادية للبنات",
+   "lat": 25.16761,
+   "lng": 51.60293
+  },
+  {
+   "id": "school-w1037377557",
+   "type": "school",
+   "name_en": "Sudanese School",
+   "name_ar": "Sudanese School",
+   "lat": 25.22341,
+   "lng": 51.49684
+  },
+  {
+   "id": "school-w1037377558",
+   "type": "school",
+   "name_en": "Palestinian School",
+   "name_ar": "Palestinian School",
+   "lat": 25.22207,
+   "lng": 51.4957
+  },
+  {
+   "id": "school-w1044262331",
+   "type": "school",
+   "name_en": "ACS Doha International School",
+   "name_ar": "ACS Doha International School",
+   "lat": 25.42241,
+   "lng": 51.43491
+  },
+  {
+   "id": "school-w1047366444",
+   "type": "school",
+   "name_en": "Arab International academy",
+   "name_ar": "الأكاديمية العربية الدولية",
+   "lat": 25.28742,
+   "lng": 51.49456
+  },
+  {
+   "id": "school-w1053293807",
+   "type": "school",
+   "name_en": "Elite International School",
+   "name_ar": "Elite International School",
+   "lat": 25.23373,
+   "lng": 51.47002
+  },
+  {
+   "id": "school-w1108067531",
+   "type": "school",
+   "name_en": "Park House English School",
+   "name_ar": "Park House English School",
+   "lat": 25.22967,
+   "lng": 51.50159
+  },
+  {
+   "id": "school-w1108925102",
+   "type": "school",
+   "name_en": "Middle East International School",
+   "name_ar": "Middle East International School",
+   "lat": 25.24443,
+   "lng": 51.51031
+  },
+  {
+   "id": "school-w1109991047",
+   "type": "school",
+   "name_en": "Newton British Academy",
+   "name_ar": "Newton British Academy",
+   "lat": 25.19855,
+   "lng": 51.50727
+  },
+  {
+   "id": "school-w1109991052",
+   "type": "school",
+   "name_en": "Newton International Academy",
+   "name_ar": "Newton International Academy",
+   "lat": 25.19353,
+   "lng": 51.50166
+  },
+  {
+   "id": "school-w1110023526",
+   "type": "school",
+   "name_en": "Newton British Academy Pearl Annex",
+   "name_ar": "Newton British Academy Pearl Annex",
+   "lat": 25.1973,
+   "lng": 51.51165
+  },
+  {
+   "id": "school-w1110274514",
+   "type": "school",
+   "name_en": "Stasfford Sri Lankan School",
+   "name_ar": "Stasfford Sri Lankan School",
+   "lat": 25.26383,
+   "lng": 51.49452
+  },
+  {
+   "id": "school-w1552454264",
+   "type": "school",
+   "name_en": "Muaither independent Primary girls school",
+   "name_ar": "مدرسة معيذر الابتدائية المستقلة للبنات",
+   "lat": 25.26271,
+   "lng": 51.40733
+  },
+  {
+   "id": "school-w1552747021",
+   "type": "school",
+   "name_en": "Mariam bint omran Primary School For Girls",
+   "name_ar": "مدرسة مريم بنت عمران المستقلة للبنات",
+   "lat": 25.26425,
+   "lng": 51.40897
+  },
+  {
+   "id": "school-r13854646",
+   "type": "school",
+   "name_en": "Lycée Voltaire",
+   "name_ar": "Lycée Voltaire",
+   "lat": 25.35696,
+   "lng": 51.50214
+  },
+  {
+   "id": "hospital-n1272998626",
+   "type": "hospital",
+   "name_en": "Hamad Medical City (37)",
+   "name_ar": "مدينة حمد الطبية (37)",
+   "lat": 25.29471,
+   "lng": 51.50241
+  },
+  {
+   "id": "hospital-n1969601368",
+   "type": "hospital",
+   "name_en": "Workers Health Center",
+   "name_ar": "Workers Health Center",
+   "lat": 25.16025,
+   "lng": 51.40621
+  },
+  {
+   "id": "hospital-n2567672824",
+   "type": "hospital",
+   "name_en": "Al Wakra Healthcare Center",
+   "name_ar": "مركز الوكرة الصحي",
+   "lat": 25.1733,
+   "lng": 51.5954
+  },
+  {
+   "id": "hospital-n2571724643",
+   "type": "hospital",
+   "name_en": "KIMS Qatar Hospital",
+   "name_ar": "KIMS Qatar Hospital",
+   "lat": 25.1633,
+   "lng": 51.59836
+  },
+  {
+   "id": "hospital-n3538299723",
+   "type": "hospital",
+   "name_en": "Al Daayen Health Center",
+   "name_ar": "Al Daayen Health Center",
+   "lat": 25.56396,
+   "lng": 51.45328
+  },
+  {
+   "id": "hospital-n3771999577",
+   "type": "hospital",
+   "name_en": "Qatari Czech Therapy Center",
+   "name_ar": "Qatari Czech Therapy Center",
+   "lat": 25.40239,
+   "lng": 51.43333
+  },
+  {
+   "id": "hospital-n4207088117",
+   "type": "hospital",
+   "name_en": "Hamad Hospital gate 9",
+   "name_ar": "Hamad Hospital gate 9",
+   "lat": 25.29868,
+   "lng": 51.50817
+  },
+  {
+   "id": "hospital-n4230893592",
+   "type": "hospital",
+   "name_en": "Naufar (src)",
+   "name_ar": "Naufar (src)",
+   "lat": 25.27361,
+   "lng": 51.43184
+  },
+  {
+   "id": "hospital-n4254427898",
+   "type": "hospital",
+   "name_en": "armed force med services",
+   "name_ar": "armed force med services",
+   "lat": 25.26569,
+   "lng": 51.49469
+  },
+  {
+   "id": "hospital-n4551752489",
+   "type": "hospital",
+   "name_en": "Hospital recruiting police",
+   "name_ar": "مستشفى تجنيد الشرطة",
+   "lat": 25.30465,
+   "lng": 51.4869
+  },
+  {
+   "id": "hospital-n4621121994",
+   "type": "hospital",
+   "name_en": "KKT الدوحة",
+   "name_ar": "KKT الدوحة",
+   "lat": 25.27283,
+   "lng": 51.51334
+  },
+  {
+   "id": "hospital-n4691923689",
+   "type": "hospital",
+   "name_en": "Al Daayen Health Centre",
+   "name_ar": "Al Daayen Health Centre",
+   "lat": 25.56396,
+   "lng": 51.4533
+  },
+  {
+   "id": "hospital-n4723981793",
+   "type": "hospital",
+   "name_en": "Leabaib health center",
+   "name_ar": "مركز لعبيب الصحي",
+   "lat": 25.37976,
+   "lng": 51.46224
+  },
+  {
+   "id": "hospital-n4762200222",
+   "type": "hospital",
+   "name_en": "مركز صحي أم صلال محمد الجديد",
+   "name_ar": "مركز صحي أم صلال محمد الجديد",
+   "lat": 25.4349,
+   "lng": 51.41031
+  },
+  {
+   "id": "hospital-n4788910223",
+   "type": "hospital",
+   "name_en": "Residential compound",
+   "name_ar": "Residential compound",
+   "lat": 25.26406,
+   "lng": 51.41846
+  },
+  {
+   "id": "hospital-n5220332221",
+   "type": "hospital",
+   "name_en": "Um Slal",
+   "name_ar": "Um Slal",
+   "lat": 25.43339,
+   "lng": 51.41064
+  },
+  {
+   "id": "hospital-n7016951085",
+   "type": "hospital",
+   "name_en": "Arak Dental Clinic",
+   "name_ar": "الاراك",
+   "lat": 25.26746,
+   "lng": 51.42937
+  },
+  {
+   "id": "hospital-n8116943817",
+   "type": "hospital",
+   "name_en": "Hospital abdurkadir wholesale market",
+   "name_ar": "Hospital abdurkadir wholesale market",
+   "lat": 25.25027,
+   "lng": 51.48369
+  },
+  {
+   "id": "hospital-n12872919314",
+   "type": "hospital",
+   "name_en": "The Pearl International Hospital",
+   "name_ar": "The Pearl International Hospital",
+   "lat": 25.36992,
+   "lng": 51.55156
+  },
+  {
+   "id": "hospital-n13468859760",
+   "type": "hospital",
+   "name_en": "Platinum Medical Center",
+   "name_ar": "Platinum Medical Center",
+   "lat": 25.38299,
+   "lng": 51.52298
+  },
+  {
+   "id": "hospital-n13786667003",
+   "type": "hospital",
+   "name_en": "Reyada Medical",
+   "name_ar": "Reyada Medical",
+   "lat": 25.26391,
+   "lng": 51.52005
+  },
+  {
+   "id": "hospital-w25978261",
+   "type": "hospital",
+   "name_en": "Hamad Medical Corporation Psychiatry Department",
+   "name_ar": "Hamad Medical Corporation Psychiatry Department",
+   "lat": 25.27639,
+   "lng": 51.51734
+  },
+  {
+   "id": "hospital-w137927281",
+   "type": "hospital",
+   "name_en": "Pediatric Emergency Centre",
+   "name_ar": "Pediatric Emergency Centre",
+   "lat": 25.28078,
+   "lng": 51.50603
+  },
+  {
+   "id": "hospital-w137927285",
+   "type": "hospital",
+   "name_en": "Aster Medical Centre plus",
+   "name_ar": "Aster Medical Centre plus",
+   "lat": 25.25869,
+   "lng": 51.53915
+  },
+  {
+   "id": "hospital-w152600871",
+   "type": "hospital",
+   "name_en": "Al Wakrah Hospital",
+   "name_ar": "مستشفى الوكرة",
+   "lat": 25.16739,
+   "lng": 51.58742
+  },
+  {
+   "id": "hospital-w213202202",
+   "type": "hospital",
+   "name_en": "Mesaimeer Health Center",
+   "name_ar": "مركز مسيمير الصحي",
+   "lat": 25.23374,
+   "lng": 51.48261
+  },
+  {
+   "id": "hospital-w220112948",
+   "type": "hospital",
+   "name_en": "Apollo Clinic",
+   "name_ar": "Apollo Clinic",
+   "lat": 25.27363,
+   "lng": 51.52806
+  },
+  {
+   "id": "hospital-w222092298",
+   "type": "hospital",
+   "name_en": "Future Medical Clinic",
+   "name_ar": "عيادة المستقبل الطبي",
+   "lat": 25.25773,
+   "lng": 51.44784
+  },
+  {
+   "id": "hospital-w238026555",
+   "type": "hospital",
+   "name_en": "Hamad Medical City",
+   "name_ar": "مدينة حمد الطبية",
+   "lat": 25.29377,
+   "lng": 51.50217
+  },
+  {
+   "id": "hospital-w247909086",
+   "type": "hospital",
+   "name_en": "Al Ahli Hospital",
+   "name_ar": "Al Ahli Hospital",
+   "lat": 25.30772,
+   "lng": 51.50008
+  },
+  {
+   "id": "hospital-w250800598",
+   "type": "hospital",
+   "name_en": "Atlas Hospital",
+   "name_ar": "مستشفى اطلس",
+   "lat": 25.21079,
+   "lng": 51.57878
+  },
+  {
+   "id": "hospital-w251740061",
+   "type": "hospital",
+   "name_en": "Al Wakra Healthcare Center, Wakra",
+   "name_ar": "مركز الوكرة الصحي",
+   "lat": 25.17302,
+   "lng": 51.59576
+  },
+  {
+   "id": "hospital-w260988229",
+   "type": "hospital",
+   "name_en": "Qatar Medical Commission",
+   "name_ar": "Medical Commission Qatar",
+   "lat": 25.23205,
+   "lng": 51.51792
+  },
+  {
+   "id": "hospital-w293106586",
+   "type": "hospital",
+   "name_en": "Qatar Medical Center",
+   "name_ar": "Qatar Medical Center",
+   "lat": 25.26768,
+   "lng": 51.50225
+  },
+  {
+   "id": "hospital-w322817060",
+   "type": "hospital",
+   "name_en": "Bone & Joint Centre",
+   "name_ar": "Bone & Joint Centre",
+   "lat": 25.28562,
+   "lng": 51.54359
+  },
+  {
+   "id": "hospital-w379040876",
+   "type": "hospital",
+   "name_en": "Madinat Khalifa Health Center",
+   "name_ar": "مركز مدينة خليفة الصحي",
+   "lat": 25.32185,
+   "lng": 51.47263
+  },
+  {
+   "id": "hospital-w489605979",
+   "type": "hospital",
+   "name_en": "Heath Housing Complex",
+   "name_ar": "مجمع بيت الصحة",
+   "lat": 25.2667,
+   "lng": 51.45333
+  },
+  {
+   "id": "hospital-w491148741",
+   "type": "hospital",
+   "name_en": "West Bay Health Center",
+   "name_ar": "مركز الخليج الغربي الصحي",
+   "lat": 25.33767,
+   "lng": 51.50388
+  },
+  {
+   "id": "hospital-w491644569",
+   "type": "hospital",
+   "name_en": "Janin Medical Center",
+   "name_ar": "Janin Medical Center",
+   "lat": 25.27326,
+   "lng": 51.49128
+  },
+  {
+   "id": "hospital-w540035762",
+   "type": "hospital",
+   "name_en": "Qatar Airways Clinic",
+   "name_ar": "Qatar Airways Clinic",
+   "lat": 25.27938,
+   "lng": 51.60411
+  },
+  {
+   "id": "hospital-w684481192",
+   "type": "hospital",
+   "name_en": "Alfardan Medical with Northwestern Medical",
+   "name_ar": "Alfardan Medical with Northwestern Medical",
+   "lat": 25.38768,
+   "lng": 51.52146
+  },
+  {
+   "id": "hospital-w992616498",
+   "type": "hospital",
+   "name_en": "Aster Medical Centre",
+   "name_ar": "مركز استر الطبي",
+   "lat": 25.29399,
+   "lng": 51.42243
+  },
+  {
+   "id": "hospital-w994862150",
+   "type": "hospital",
+   "name_en": "Hazm Mebaireek General Hospital",
+   "name_ar": "Hazm Mebaireek General Hospital",
+   "lat": 25.18089,
+   "lng": 51.4307
+  },
+  {
+   "id": "hospital-w1041351209",
+   "type": "hospital",
+   "name_en": "Aisha Bint Hamad Al Attiyah",
+   "name_ar": "مستشفى عئشة بنت حمد العطية",
+   "lat": 25.60702,
+   "lng": 51.46143
+  },
+  {
+   "id": "hospital-w1049648363",
+   "type": "hospital",
+   "name_en": "Trauma & Emergency",
+   "name_ar": "Trauma & Emergency",
+   "lat": 25.29255,
+   "lng": 51.50205
+  },
+  {
+   "id": "hospital-r10720904",
+   "type": "hospital",
+   "name_en": "Sidra Medicine",
+   "name_ar": "سدرة للطب",
+   "lat": 25.32259,
+   "lng": 51.44489
+  },
+  {
+   "id": "hospital-r13338453",
+   "type": "hospital",
+   "name_en": "NCCCR (Al Amal Hospital)",
+   "name_ar": "مستشفى الامل",
+   "lat": 25.29295,
+   "lng": 51.51096
+  },
+  {
+   "id": "hospital-r13341823",
+   "type": "hospital",
+   "name_en": "HMC Heart Hospital",
+   "name_ar": "مستشفى القلب مؤسسة حمد الطبية",
+   "lat": 25.29195,
+   "lng": 51.50968
+  },
+  {
+   "id": "hospital-r13341978",
+   "type": "hospital",
+   "name_en": "Al Emadi Hospital",
+   "name_ar": "العمادي",
+   "lat": 25.25558,
+   "lng": 51.53458
+  },
+  {
+   "id": "hospital-r13344807",
+   "type": "hospital",
+   "name_en": "Doha Clinic Hospital",
+   "name_ar": "مستشفى عيادة الدوحة",
+   "lat": 25.27415,
+   "lng": 51.50336
+  },
+  {
+   "id": "hospital-r13367284",
+   "type": "hospital",
+   "name_en": "Rumailah Hospital",
+   "name_ar": "مستشفى الرميلة",
+   "lat": 25.29289,
+   "lng": 51.51268
+  },
+  {
+   "id": "hospital-r14012759",
+   "type": "hospital",
+   "name_en": "Hamad Women's Hospital",
+   "name_ar": "مستشفى حمد للنساء",
+   "lat": 25.29364,
+   "lng": 51.50064
+  },
+  {
+   "id": "mall-n2277986594",
+   "type": "mall",
+   "name_en": "The Boulevard Mall",
+   "name_ar": "The Boulevard Mall",
+   "lat": 25.27699,
+   "lng": 51.5085
+  },
+  {
+   "id": "mall-n2444031425",
+   "type": "mall",
+   "name_en": "Centrepoint",
+   "name_ar": "Centrepoint",
+   "lat": 25.28269,
+   "lng": 51.49562
+  },
+  {
+   "id": "mall-n3424940793",
+   "type": "mall",
+   "name_en": "Souq Waqif",
+   "name_ar": "سوق واقف",
+   "lat": 25.28706,
+   "lng": 51.53286
+  },
+  {
+   "id": "mall-n7962848635",
+   "type": "mall",
+   "name_en": "Al Mamora Plaza",
+   "name_ar": "Al Mamora Plaza",
+   "lat": 25.22668,
+   "lng": 51.49419
+  },
+  {
+   "id": "mall-n12253915680",
+   "type": "mall",
+   "name_en": "Doha Day Mart",
+   "name_ar": "Doha Day Mart",
+   "lat": 25.26654,
+   "lng": 51.53764
+  },
+  {
+   "id": "mall-n12948938959",
+   "type": "mall",
+   "name_en": "Msheireb Galleria",
+   "name_ar": "Msheireb Galleria",
+   "lat": 25.28543,
+   "lng": 51.52838
+  },
+  {
+   "id": "mall-n13938510410",
+   "type": "mall",
+   "name_en": "Centro Mall",
+   "name_ar": "Centro Mall",
+   "lat": 25.42438,
+   "lng": 51.48188
+  },
+  {
+   "id": "mall-w26096180",
+   "type": "mall",
+   "name_en": "City Souq",
+   "name_ar": "City Souq",
+   "lat": 25.28903,
+   "lng": 51.53783
+  },
+  {
+   "id": "mall-w26203099",
+   "type": "mall",
+   "name_en": "Royal Plaza",
+   "name_ar": "Royal Plaza",
+   "lat": 25.28165,
+   "lng": 51.50166
+  },
+  {
+   "id": "mall-w103002122",
+   "type": "mall",
+   "name_en": "Landmark Shopping Mall",
+   "name_ar": "لاندمارك",
+   "lat": 25.33417,
+   "lng": 51.46638
+  },
+  {
+   "id": "mall-w106475732",
+   "type": "mall",
+   "name_en": "The Mall",
+   "name_ar": "المول",
+   "lat": 25.25303,
+   "lng": 51.53746
+  },
+  {
+   "id": "mall-w112969309",
+   "type": "mall",
+   "name_en": "Hyatt Plaza",
+   "name_ar": "حياة بلازا",
+   "lat": 25.25647,
+   "lng": 51.43831
+  },
+  {
+   "id": "mall-w112969367",
+   "type": "mall",
+   "name_en": "Safari Mall",
+   "name_ar": "Safari Mall",
+   "lat": 25.2195,
+   "lng": 51.49647
+  },
+  {
+   "id": "mall-w119635906",
+   "type": "mall",
+   "name_en": "Emporium",
+   "name_ar": "Emporium",
+   "lat": 25.27288,
+   "lng": 51.50916
+  },
+  {
+   "id": "mall-w122744983",
+   "type": "mall",
+   "name_en": "Wathnan Mall",
+   "name_ar": "وذنان مول",
+   "lat": 25.26868,
+   "lng": 51.42363
+  },
+  {
+   "id": "mall-w154259072",
+   "type": "mall",
+   "name_en": "Al Shaheen",
+   "name_ar": "Al Shaheen",
+   "lat": 25.26875,
+   "lng": 51.52356
+  },
+  {
+   "id": "mall-w154527349",
+   "type": "mall",
+   "name_en": "Lagoona Mall",
+   "name_ar": "لاجونا مول",
+   "lat": 25.37653,
+   "lng": 51.52506
+  },
+  {
+   "id": "mall-w158426146",
+   "type": "mall",
+   "name_en": "Al Asmakh Mall (Centrepoint)",
+   "name_ar": "Al Asmakh Mall (Centrepoint)",
+   "lat": 25.28261,
+   "lng": 51.4959
+  },
+  {
+   "id": "mall-w165499567",
+   "type": "mall",
+   "name_en": "ALMEERA MANSOURA MALL",
+   "name_ar": "ALMEERA MANSOURA MALL",
+   "lat": 25.27123,
+   "lng": 51.52891
+  },
+  {
+   "id": "mall-w165571590",
+   "type": "mall",
+   "name_en": "Souq Al Reem",
+   "name_ar": "سوق الريم",
+   "lat": 25.2848,
+   "lng": 51.53794
+  },
+  {
+   "id": "mall-w222088762",
+   "type": "mall",
+   "name_en": "Dar Al Salam Mall",
+   "name_ar": "Dar Al Salam Mall",
+   "lat": 25.2475,
+   "lng": 51.48941
+  },
+  {
+   "id": "mall-w234520971",
+   "type": "mall",
+   "name_en": "Ezdan Mall",
+   "name_ar": "إزدان مول",
+   "lat": 25.33293,
+   "lng": 51.46236
+  },
+  {
+   "id": "mall-w234956407",
+   "type": "mall",
+   "name_en": "The Gate Mall",
+   "name_ar": "ذي جيت مول",
+   "lat": 25.32299,
+   "lng": 51.52666
+  },
+  {
+   "id": "mall-w237662334",
+   "type": "mall",
+   "name_en": "Tawar Mall",
+   "name_ar": "Tawar Mall",
+   "lat": 25.33724,
+   "lng": 51.48096
+  },
+  {
+   "id": "mall-w239731666",
+   "type": "mall",
+   "name_en": "01 Mall",
+   "name_ar": "01 Mall",
+   "lat": 25.22568,
+   "lng": 51.47724
+  },
+  {
+   "id": "mall-w240238771",
+   "type": "mall",
+   "name_en": "Quality",
+   "name_ar": "Quality",
+   "lat": 25.25722,
+   "lng": 51.49785
+  },
+  {
+   "id": "mall-w245759502",
+   "type": "mall",
+   "name_en": "BPC Mall",
+   "name_ar": "BPC Mall",
+   "lat": 25.11748,
+   "lng": 51.34406
+  },
+  {
+   "id": "mall-w247909089",
+   "type": "mall",
+   "name_en": "Town Center",
+   "name_ar": "Town Center",
+   "lat": 25.30806,
+   "lng": 51.49707
+  },
+  {
+   "id": "mall-w249302878",
+   "type": "mall",
+   "name_en": "Max Mall",
+   "name_ar": "ماكس",
+   "lat": 25.21231,
+   "lng": 51.57867
+  },
+  {
+   "id": "mall-w379040265",
+   "type": "mall",
+   "name_en": "Q Mall",
+   "name_ar": "Q Mall",
+   "lat": 25.32749,
+   "lng": 51.46578
+  },
+  {
+   "id": "mall-w463697424",
+   "type": "mall",
+   "name_en": "Mall of Qatar",
+   "name_ar": "قطر مول",
+   "lat": 25.32666,
+   "lng": 51.34988
+  },
+  {
+   "id": "mall-w468045098",
+   "type": "mall",
+   "name_en": "Souq al Dira",
+   "name_ar": "Souq al Dira",
+   "lat": 25.28816,
+   "lng": 51.53851
+  },
+  {
+   "id": "mall-w468045101",
+   "type": "mall",
+   "name_en": "Al Jabor Center",
+   "name_ar": "Al Jabor Center",
+   "lat": 25.28799,
+   "lng": 51.53936
+  },
+  {
+   "id": "mall-w483074552",
+   "type": "mall",
+   "name_en": "Zone Center",
+   "name_ar": "Zone Center",
+   "lat": 25.25141,
+   "lng": 51.53156
+  },
+  {
+   "id": "mall-w483074574",
+   "type": "mall",
+   "name_en": "Quality Mall",
+   "name_ar": "كواليتي مول",
+   "lat": 25.25207,
+   "lng": 51.51673
+  },
+  {
+   "id": "mall-w489333468",
+   "type": "mall",
+   "name_en": "Aswaq Ramez",
+   "name_ar": "Aswaq Ramez",
+   "lat": 25.24251,
+   "lng": 51.51475
+  },
+  {
+   "id": "mall-w491447996",
+   "type": "mall",
+   "name_en": "Logic Mall",
+   "name_ar": "Logic Mall",
+   "lat": 25.27899,
+   "lng": 51.40806
+  },
+  {
+   "id": "mall-w491613723",
+   "type": "mall",
+   "name_en": "Ibhar Commercial Complex",
+   "name_ar": "Ibhar Commercial Complex",
+   "lat": 25.26684,
+   "lng": 51.41656
+  },
+  {
+   "id": "mall-w520735328",
+   "type": "mall",
+   "name_en": "B Square Mall",
+   "name_ar": "B Square Mall",
+   "lat": 25.22073,
+   "lng": 51.54224
+  },
+  {
+   "id": "mall-w684110547",
+   "type": "mall",
+   "name_en": "Place Vendome",
+   "name_ar": "بلاس ڤيندوم",
+   "lat": 25.40444,
+   "lng": 51.52054
+  },
+  {
+   "id": "mall-w726858776",
+   "type": "mall",
+   "name_en": "PALMS MALL",
+   "name_ar": "بالمز مول",
+   "lat": 25.26695,
+   "lng": 51.41509
+  },
+  {
+   "id": "mall-w727490601",
+   "type": "mall",
+   "name_en": "Doha Festival City",
+   "name_ar": "دوحة فستيفال سيتي",
+   "lat": 25.38575,
+   "lng": 51.44165
+  },
+  {
+   "id": "mall-w911702108",
+   "type": "mall",
+   "name_en": "02 Mall",
+   "name_ar": "02 Mall",
+   "lat": 25.42147,
+   "lng": 51.47598
+  },
+  {
+   "id": "mall-w1033522183",
+   "type": "mall",
+   "name_en": "Giardino Mall",
+   "name_ar": "غيردينو مول",
+   "lat": 25.37192,
+   "lng": 51.55446
+  },
+  {
+   "id": "mall-r10664222",
+   "type": "mall",
+   "name_en": "Alhazm Mall",
+   "name_ar": "الحزم مول",
+   "lat": 25.33212,
+   "lng": 51.49786
+  },
+  {
+   "id": "mall-r10684230",
+   "type": "mall",
+   "name_en": "Villaggio Mall",
+   "name_ar": "فيلاجيو مول",
+   "lat": 25.25971,
+   "lng": 51.44242
+  },
+  {
+   "id": "mall-r10742915",
+   "type": "mall",
+   "name_en": "Souq Al Najada",
+   "name_ar": "سوق النجادة",
+   "lat": 25.28563,
+   "lng": 51.53319
+  },
+  {
+   "id": "mall-r14097599",
+   "type": "mall",
+   "name_en": "Doha Oasis",
+   "name_ar": "واحة الدوحة",
+   "lat": 25.28543,
+   "lng": 51.51856
+  },
+  {
+   "id": "mall-r14745001",
+   "type": "mall",
+   "name_en": "Doha Mall",
+   "name_ar": "Doha Mall",
+   "lat": 25.23302,
+   "lng": 51.50654
+  },
+  {
+   "id": "mall-r14907247",
+   "type": "mall",
+   "name_en": "The Center",
+   "name_ar": "The Center",
+   "lat": 25.27449,
+   "lng": 51.51611
+  },
+  {
+   "id": "mall-r19126290",
+   "type": "mall",
+   "name_en": "City Center",
+   "name_ar": "ستي سنتر",
+   "lat": 25.32502,
+   "lng": 51.53056
+  },
+  {
+   "id": "mall-r19744834",
+   "type": "mall",
+   "name_en": "Trove",
+   "name_ar": "تروڨ",
+   "lat": 25.43164,
+   "lng": 51.52895
+  },
+  {
+   "id": "beach-n11265410685",
+   "type": "beach",
+   "name_en": "Oasis Beach Club",
+   "name_ar": "Oasis Beach Club",
+   "lat": 25.28607,
+   "lng": 51.55894
+  },
+  {
+   "id": "beach-w13211710",
+   "type": "beach",
+   "name_en": "Katara Beach",
+   "name_ar": "شاطئ كتارا",
+   "lat": 25.35878,
+   "lng": 51.52866
+  },
+  {
+   "id": "beach-w151511653",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36685,
+   "lng": 51.55718
+  },
+  {
+   "id": "beach-w151512113",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36264,
+   "lng": 51.54842
+  },
+  {
+   "id": "beach-w151513351",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.3595,
+   "lng": 51.56151
+  },
+  {
+   "id": "beach-w151514596",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.35625,
+   "lng": 51.56935
+  },
+  {
+   "id": "beach-w151514600",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36263,
+   "lng": 51.57473
+  },
+  {
+   "id": "beach-w151517966",
+   "type": "beach",
+   "name_en": "Lido Murano",
+   "name_ar": "Lido Murano",
+   "lat": 25.37956,
+   "lng": 51.54415
+  },
+  {
+   "id": "beach-w151517967",
+   "type": "beach",
+   "name_en": "Lido Lagune",
+   "name_ar": "Lido Lagune",
+   "lat": 25.37826,
+   "lng": 51.54295
+  },
+  {
+   "id": "beach-w151517968",
+   "type": "beach",
+   "name_en": "Lido Venezia",
+   "name_ar": "Lido Venezia",
+   "lat": 25.38045,
+   "lng": 51.54676
+  },
+  {
+   "id": "beach-w151517969",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37709,
+   "lng": 51.54178
+  },
+  {
+   "id": "beach-w151523703",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36168,
+   "lng": 51.57933
+  },
+  {
+   "id": "beach-w151523705",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.35812,
+   "lng": 51.57717
+  },
+  {
+   "id": "beach-w151523707",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36826,
+   "lng": 51.57809
+  },
+  {
+   "id": "beach-w151523709",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.365,
+   "lng": 51.58085
+  },
+  {
+   "id": "beach-w151523713",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37099,
+   "lng": 51.58389
+  },
+  {
+   "id": "beach-w151523715",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36538,
+   "lng": 51.57675
+  },
+  {
+   "id": "beach-w151523716",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37159,
+   "lng": 51.57909
+  },
+  {
+   "id": "beach-w151523717",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36816,
+   "lng": 51.58255
+  },
+  {
+   "id": "beach-w151528202",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37688,
+   "lng": 51.55002
+  },
+  {
+   "id": "beach-w151546377",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36979,
+   "lng": 51.56054
+  },
+  {
+   "id": "beach-w154027206",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.28629,
+   "lng": 51.55684
+  },
+  {
+   "id": "beach-w154027956",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37509,
+   "lng": 51.52927
+  },
+  {
+   "id": "beach-w154029517",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36581,
+   "lng": 51.53178
+  },
+  {
+   "id": "beach-w154030037",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37054,
+   "lng": 51.52954
+  },
+  {
+   "id": "beach-w154030038",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.3675,
+   "lng": 51.53137
+  },
+  {
+   "id": "beach-w154043548",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.31894,
+   "lng": 51.53811
+  },
+  {
+   "id": "beach-w154052444",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37159,
+   "lng": 51.51237
+  },
+  {
+   "id": "beach-w154052451",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36686,
+   "lng": 51.511
+  },
+  {
+   "id": "beach-w154508589",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37144,
+   "lng": 51.51412
+  },
+  {
+   "id": "beach-w154508590",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.3714,
+   "lng": 51.51805
+  },
+  {
+   "id": "beach-w154549682",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37323,
+   "lng": 51.51271
+  },
+  {
+   "id": "beach-w154717643",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.34796,
+   "lng": 51.53144
+  },
+  {
+   "id": "beach-w154912822",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.36605,
+   "lng": 51.51354
+  },
+  {
+   "id": "beach-w156194998",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.28725,
+   "lng": 51.56113
+  },
+  {
+   "id": "beach-w158470151",
+   "type": "beach",
+   "name_en": "Hilton's Beach",
+   "name_ar": "Hilton's Beach",
+   "lat": 25.32642,
+   "lng": 51.54115
+  },
+  {
+   "id": "beach-w158470172",
+   "type": "beach",
+   "name_en": "Four Seasons Beach",
+   "name_ar": "Four Seasons Beach",
+   "lat": 25.32365,
+   "lng": 51.53956
+  },
+  {
+   "id": "beach-w321092143",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.41536,
+   "lng": 51.52843
+  },
+  {
+   "id": "beach-w321092146",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.4047,
+   "lng": 51.52471
+  },
+  {
+   "id": "beach-w321092149",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.39719,
+   "lng": 51.53053
+  },
+  {
+   "id": "beach-w321092154",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.42989,
+   "lng": 51.52188
+  },
+  {
+   "id": "beach-w321094698",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.4283,
+   "lng": 51.51555
+  },
+  {
+   "id": "beach-w321094699",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.42936,
+   "lng": 51.51495
+  },
+  {
+   "id": "beach-w321094700",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.43078,
+   "lng": 51.51544
+  },
+  {
+   "id": "beach-w321094701",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.43263,
+   "lng": 51.51931
+  },
+  {
+   "id": "beach-w447906870",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.3681,
+   "lng": 51.53567
+  },
+  {
+   "id": "beach-w659779565",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.4352,
+   "lng": 51.5271
+  },
+  {
+   "id": "beach-w659779566",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.43551,
+   "lng": 51.52232
+  },
+  {
+   "id": "beach-w659779567",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.43951,
+   "lng": 51.52143
+  },
+  {
+   "id": "beach-w659779568",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.43729,
+   "lng": 51.52182
+  },
+  {
+   "id": "beach-w684474249",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.29605,
+   "lng": 51.64418
+  },
+  {
+   "id": "beach-w694829652",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.47734,
+   "lng": 51.59078
+  },
+  {
+   "id": "beach-w694829653",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.47468,
+   "lng": 51.59122
+  },
+  {
+   "id": "beach-w694829654",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.47672,
+   "lng": 51.58577
+  },
+  {
+   "id": "beach-w694829655",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.47827,
+   "lng": 51.58585
+  },
+  {
+   "id": "beach-w694829656",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.47726,
+   "lng": 51.583
+  },
+  {
+   "id": "beach-w694829657",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.47876,
+   "lng": 51.5815
+  },
+  {
+   "id": "beach-w694829658",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.48158,
+   "lng": 51.57994
+  },
+  {
+   "id": "beach-w694829659",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.48292,
+   "lng": 51.57849
+  },
+  {
+   "id": "beach-w694829660",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.48294,
+   "lng": 51.58159
+  },
+  {
+   "id": "beach-w694829661",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.48419,
+   "lng": 51.58565
+  },
+  {
+   "id": "beach-w694829662",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.48418,
+   "lng": 51.58776
+  },
+  {
+   "id": "beach-w694829663",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.48294,
+   "lng": 51.58935
+  },
+  {
+   "id": "beach-w694831310",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.51801,
+   "lng": 51.54332
+  },
+  {
+   "id": "beach-w694831313",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.51855,
+   "lng": 51.54638
+  },
+  {
+   "id": "beach-w694831315",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.52064,
+   "lng": 51.54351
+  },
+  {
+   "id": "beach-w694831316",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.51952,
+   "lng": 51.54042
+  },
+  {
+   "id": "beach-w694831317",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.52073,
+   "lng": 51.52751
+  },
+  {
+   "id": "beach-w694831319",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.52128,
+   "lng": 51.53079
+  },
+  {
+   "id": "beach-w694831321",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.53217,
+   "lng": 51.52406
+  },
+  {
+   "id": "beach-w694831322",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.53168,
+   "lng": 51.5267
+  },
+  {
+   "id": "beach-w694831323",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.53403,
+   "lng": 51.52889
+  },
+  {
+   "id": "beach-w694831324",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.53591,
+   "lng": 51.52778
+  },
+  {
+   "id": "beach-w1030708958",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.35027,
+   "lng": 51.53224
+  },
+  {
+   "id": "beach-w1031367602",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37372,
+   "lng": 51.535
+  },
+  {
+   "id": "beach-w1033219015",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37571,
+   "lng": 51.53941
+  },
+  {
+   "id": "beach-w1036317266",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.38354,
+   "lng": 51.54373
+  },
+  {
+   "id": "beach-w1036317267",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.38334,
+   "lng": 51.54305
+  },
+  {
+   "id": "beach-w1036317268",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.38302,
+   "lng": 51.54249
+  },
+  {
+   "id": "beach-w1036317270",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.38231,
+   "lng": 51.54162
+  },
+  {
+   "id": "beach-w1036317271",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.3834,
+   "lng": 51.5497
+  },
+  {
+   "id": "beach-w1036317272",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.38371,
+   "lng": 51.54814
+  },
+  {
+   "id": "beach-w1036317273",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.38333,
+   "lng": 51.55132
+  },
+  {
+   "id": "beach-w1036317274",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.38255,
+   "lng": 51.55436
+  },
+  {
+   "id": "beach-w1036317275",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.38265,
+   "lng": 51.55608
+  },
+  {
+   "id": "beach-w1036317276",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.38274,
+   "lng": 51.5575
+  },
+  {
+   "id": "beach-w1037339709",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.60612,
+   "lng": 51.5204
+  },
+  {
+   "id": "beach-w1037339713",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.57406,
+   "lng": 51.48857
+  },
+  {
+   "id": "beach-w1039614258",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.28957,
+   "lng": 51.56335
+  },
+  {
+   "id": "beach-w1039620883",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.29299,
+   "lng": 51.56679
+  },
+  {
+   "id": "beach-w1041587829",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37491,
+   "lng": 51.53797
+  },
+  {
+   "id": "beach-w1041587830",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.37725,
+   "lng": 51.53251
+  },
+  {
+   "id": "beach-w1050689994",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.40471,
+   "lng": 51.57255
+  },
+  {
+   "id": "beach-w1052186950",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.33246,
+   "lng": 51.53459
+  },
+  {
+   "id": "beach-w1057495978",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.38005,
+   "lng": 51.53845
+  },
+  {
+   "id": "beach-w1057943071",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.1737,
+   "lng": 51.61235
+  },
+  {
+   "id": "beach-w1057943072",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.16996,
+   "lng": 51.61094
+  },
+  {
+   "id": "beach-w1083999720",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.33208,
+   "lng": 51.53036
+  },
+  {
+   "id": "beach-w1083999721",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.33043,
+   "lng": 51.53841
+  },
+  {
+   "id": "beach-w1145063449",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.30357,
+   "lng": 51.54894
+  },
+  {
+   "id": "beach-w1317613839",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.3445,
+   "lng": 51.52963
+  },
+  {
+   "id": "beach-w1317711104",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.33413,
+   "lng": 51.52379
+  },
+  {
+   "id": "beach-w1322506349",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.58348,
+   "lng": 51.49054
+  },
+  {
+   "id": "beach-w1435663193",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.41099,
+   "lng": 51.52663
+  },
+  {
+   "id": "beach-w1435663194",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.41152,
+   "lng": 51.52105
+  },
+  {
+   "id": "beach-w1435844495",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.43295,
+   "lng": 51.53265
+  },
+  {
+   "id": "beach-w1441603315",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.42599,
+   "lng": 51.51834
+  },
+  {
+   "id": "beach-w1441858035",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.42562,
+   "lng": 51.53643
+  },
+  {
+   "id": "beach-w1441858036",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.42821,
+   "lng": 51.53486
+  },
+  {
+   "id": "beach-w1442539939",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.43092,
+   "lng": 51.53116
+  },
+  {
+   "id": "beach-w1442592587",
+   "type": "beach",
+   "name_en": "Azure Beach Doha",
+   "name_ar": "شاطئ أزور الدوحة",
+   "lat": 25.43481,
+   "lng": 51.52736
+  },
+  {
+   "id": "beach-r12442483",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.31772,
+   "lng": 51.5386
+  },
+  {
+   "id": "beach-r19690139",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.43137,
+   "lng": 51.53316
+  },
+  {
+   "id": "hospital-n2323452366",
+   "type": "hospital",
+   "name_en": "Al Khor Primary Health Clinic",
+   "name_ar": "Al Khor Primary Health Clinic",
+   "lat": 25.68205,
+   "lng": 51.49819
+  },
+  {
+   "id": "school-n2795956376",
+   "type": "school",
+   "name_en": "MIC Senior SChool",
+   "name_ar": "MIC Senior SChool",
+   "lat": 25.00603,
+   "lng": 51.53883
+  },
+  {
+   "id": "school-n4296615982",
+   "type": "school",
+   "name_en": "التقوية",
+   "name_ar": "التقوية",
+   "lat": 25.67246,
+   "lng": 51.507
+  },
+  {
+   "id": "hospital-n4328322689",
+   "type": "hospital",
+   "name_en": "Salwa General Hospital",
+   "name_ar": "مستشفى سلوى العام",
+   "lat": 24.75715,
+   "lng": 50.7525
+  },
+  {
+   "id": "school-n4591072594",
+   "type": "school",
+   "name_en": "انا",
+   "name_ar": "انا",
+   "lat": 25.71357,
+   "lng": 51.50094
+  },
+  {
+   "id": "hospital-n5486408223",
+   "type": "hospital",
+   "name_en": "QP Dukhan Medical Hospital",
+   "name_ar": "QP Dukhan Medical Hospital",
+   "lat": 25.41863,
+   "lng": 50.78273
+  },
+  {
+   "id": "school-n5486761698",
+   "type": "school",
+   "name_en": "Dukhan English School",
+   "name_ar": "Dukhan English School",
+   "lat": 25.42008,
+   "lng": 50.7863
+  },
+  {
+   "id": "hospital-n6817581316",
+   "type": "hospital",
+   "name_en": "مركز كلية أحمد بن محمد العسكرية الطبي",
+   "name_ar": "مركز كلية أحمد بن محمد العسكرية الطبي",
+   "lat": 25.31169,
+   "lng": 51.23652
+  },
+  {
+   "id": "beach-n8302937425",
+   "type": "beach",
+   "name_en": "شاطئ الخرايق",
+   "name_ar": "شاطئ الخرايق",
+   "lat": 25.02922,
+   "lng": 50.80487
+  },
+  {
+   "id": "beach-n8432005618",
+   "type": "beach",
+   "name_en": "Sealine Beach",
+   "name_ar": "Sealine Beach",
+   "lat": 24.8472,
+   "lng": 51.50865
+  },
+  {
+   "id": "beach-w133979843",
+   "type": "beach",
+   "name_en": "Fuwairit Beach",
+   "name_ar": "Fuwairit Beach",
+   "lat": 26.03184,
+   "lng": 51.37499
+  },
+  {
+   "id": "beach-w135200854",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 24.85947,
+   "lng": 51.5164
+  },
+  {
+   "id": "school-w155243151",
+   "type": "school",
+   "name_en": "Qatar Academy Al- Khor",
+   "name_ar": "Qatar Academy Al- Khor",
+   "lat": 25.68586,
+   "lng": 51.49229
+  },
+  {
+   "id": "beach-w156166953",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 25.68608,
+   "lng": 51.52262
+  },
+  {
+   "id": "school-w156176024",
+   "type": "school",
+   "name_en": "Qatar Leadership Academy",
+   "name_ar": "أكاديمية قطر للقادة",
+   "lat": 25.67214,
+   "lng": 51.50251
+  },
+  {
+   "id": "hospital-w156179245",
+   "type": "hospital",
+   "name_en": "Al Khor Hamad Hospital",
+   "name_ar": "مستشفي حمد الخور",
+   "lat": 25.71541,
+   "lng": 51.5153
+  },
+  {
+   "id": "school-w190328351",
+   "type": "school",
+   "name_en": "Compass International School Al Khor",
+   "name_ar": "Compass International School Al Khor",
+   "lat": 25.67922,
+   "lng": 51.51316
+  },
+  {
+   "id": "mall-w213917799",
+   "type": "mall",
+   "name_en": "Dune mall",
+   "name_ar": "دينيز مول",
+   "lat": 24.99434,
+   "lng": 51.54606
+  },
+  {
+   "id": "school-w223447560",
+   "type": "school",
+   "name_en": "Al Khor International School",
+   "name_ar": "Al Khor International School",
+   "lat": 25.71252,
+   "lng": 51.53015
+  },
+  {
+   "id": "school-w274922533",
+   "type": "school",
+   "name_en": "Mesaieed International Primary School",
+   "name_ar": "مدرسة مسيعيد الابتدائية الدولية (MIS)",
+   "lat": 25.00523,
+   "lng": 51.54183
+  },
+  {
+   "id": "beach-w282121602",
+   "type": "beach",
+   "name_en": "Golden Beach",
+   "name_ar": "Golden Beach",
+   "lat": 24.86932,
+   "lng": 51.53014
+  },
+  {
+   "id": "school-w282209432",
+   "type": "school",
+   "name_en": "English Modern School",
+   "name_ar": "English Modern School",
+   "lat": 25.71426,
+   "lng": 51.51759
+  },
+  {
+   "id": "school-w323157024",
+   "type": "school",
+   "name_en": "Mesaieed International Secondary School (MIS)",
+   "name_ar": "مدرسة مسيعيد الثانوية الدولية (MIS)",
+   "lat": 25.00527,
+   "lng": 51.53808
+  },
+  {
+   "id": "beach-w323166071",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 24.86346,
+   "lng": 51.52114
+  },
+  {
+   "id": "hospital-w364291093",
+   "type": "hospital",
+   "name_en": "Pediatric Sections - Al Khor Hospital",
+   "name_ar": "Pediatric Sections - Al Khor Hospital",
+   "lat": 25.71671,
+   "lng": 51.51678
+  },
+  {
+   "id": "beach-w549234660",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 24.85774,
+   "lng": 50.8587
+  },
+  {
+   "id": "beach-w549234669",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 24.84417,
+   "lng": 50.8575
+  },
+  {
+   "id": "beach-w1057953706",
+   "type": "beach",
+   "name_en": "Al Sultan Beach",
+   "name_ar": "Al Sultan Beach",
+   "lat": 25.68508,
+   "lng": 51.51987
+  },
+  {
+   "id": "hospital-w1066574917",
+   "type": "hospital",
+   "name_en": "Cuban Hospital",
+   "name_ar": "Cuban Hospital",
+   "lat": 25.43853,
+   "lng": 50.85839
+  },
+  {
+   "id": "school-w1151575511",
+   "type": "school",
+   "name_en": "مدرسة مسيعيد الاعدادية الثانوية للبنات",
+   "name_ar": "مدرسة مسيعيد الاعدادية الثانوية للبنات",
+   "lat": 24.99633,
+   "lng": 51.53571
+  },
+  {
+   "id": "mall-w1151636231",
+   "type": "mall",
+   "name_en": "Waddan Mall",
+   "name_ar": "Waddan Mall",
+   "lat": 25.0069,
+   "lng": 51.5504
+  },
+  {
+   "id": "hospital-w1153638783",
+   "type": "hospital",
+   "name_en": "Mesaieed Hospital",
+   "name_ar": "مستشفى مسيعيد",
+   "lat": 25.01343,
+   "lng": 51.55976
+  },
+  {
+   "id": "school-w1164698062",
+   "type": "school",
+   "name_en": "مدرسة مسيعيد الابتدائية الاعدادية الثانوية للبنات",
+   "name_ar": "مدرسة مسيعيد الابتدائية الاعدادية الثانوية للبنات",
+   "lat": 24.99368,
+   "lng": 51.54001
+  },
+  {
+   "id": "beach-w1171517778",
+   "type": "beach",
+   "name_en": "Our Habitas Ras Abrouq",
+   "name_ar": "Our Habitas Ras Abrouq",
+   "lat": 25.58594,
+   "lng": 50.83064
+  },
+  {
+   "id": "beach-w1391857836",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 24.75083,
+   "lng": 50.82861
+  },
+  {
+   "id": "beach-w1418179596",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 26.07799,
+   "lng": 51.08454
+  },
+  {
+   "id": "beach-w1418179597",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 26.07776,
+   "lng": 51.08541
+  },
+  {
+   "id": "beach-w1418179598",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 26.07668,
+   "lng": 51.085
+  },
+  {
+   "id": "beach-w1466171568",
+   "type": "beach",
+   "name_en": "Beach",
+   "name_ar": "شاطئ",
+   "lat": 24.76717,
+   "lng": 50.75059
+  },
+  {
+   "id": "school-w1475143751",
+   "type": "school",
+   "name_en": "مدرسة الشحانية الثانوية الاعدادية للبنات",
+   "name_ar": "مدرسة الشحانية الثانوية الاعدادية للبنات",
+   "lat": 25.36637,
+   "lng": 51.21658
+  }
+ ],
+ "notes": "Doha, Lusail and Al Wakra fetched 11 Oct 2026; the rest of Qatar (north, west, Mesaieed) added 14 Oct 2026. tools/fetch_osm.py now covers all of Qatar."
+}

@@ -1,0 +1,28 @@
+<!doctype html><meta charset="utf-8"><title>Upload bridge</title>
+<body style="font:14px system-ui;padding:20px">
+<p>Local-only helper for uploading this project through GitHub's web uploader (no git needed).</p>
+<button id="copy" style="padding:12px 16px;font-size:14px">Copy project files to clipboard</button>
+<p id="s"></p>
+<textarea id="t" style="position:absolute;left:-9999px"></textarea>
+<script>
+// Files under data/raw and dotfiles are skipped: the GitHub Actions refresh downloads raw MoJ CSVs,
+// and GitHub's folder upload ignores names starting with a dot.
+const SKIP = /^(data\/raw\/|\.|tools\/bridge\.html$)/;
+document.getElementById('copy').onclick = async () => {
+  const s = document.getElementById('s');
+  try {
+    const list = await (await fetch('/tools/upload_manifest.txt', { cache: 'no-store' })).text();
+    const files = {};
+    for (const p of list.split('\n').map((x) => x.trim()).filter((x) => x && !SKIP.test(x))) {
+      const r = await fetch('/' + p, { cache: 'no-store' });
+      if (!r.ok) throw new Error(p + ' ' + r.status);
+      files[p] = await r.text();
+    }
+    const t = document.getElementById('t');
+    t.value = 'QODBUNDLE' + JSON.stringify(files);
+    t.select();
+    document.execCommand('copy');
+    s.textContent = 'Copied ' + Object.keys(files).length + ' files (' + t.value.length + ' chars).';
+  } catch (e) { s.textContent = 'Error: ' + e.message; }
+};
+</script>

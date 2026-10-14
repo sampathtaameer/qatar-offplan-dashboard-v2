@@ -1,0 +1,101 @@
+{
+ "as_of": "2026-10-14",
+ "records": [
+  {
+   "id": "the-gate",
+   "name": "The Gate",
+   "kind": "handover_conflict",
+   "current": "2027-01",
+   "listings": "2027-12",
+   "brokers": 3
+  },
+  {
+   "id": "canal-bay",
+   "name": "Canal Bay",
+   "kind": "handover_conflict",
+   "current": "2028-07",
+   "listings": "2028-12",
+   "brokers": 9
+  },
+  {
+   "id": "carlton-house",
+   "name": "Carlton House",
+   "kind": "handover_conflict",
+   "current": "2027-12",
+   "listings": "2028-12",
+   "brokers": 13
+  },
+  {
+   "id": "pf-lusail-city-65",
+   "name": "Lusail City: off-plan listings",
+   "kind": "developer_candidate",
+   "current": "Not stated (broker listings)",
+   "listings": "Sphinx",
+   "brokers": 1
+  },
+  {
+   "id": "pf-fox-hills-south-1275",
+   "name": "Fox Hills South",
+   "kind": "developer_candidate",
+   "current": "Not stated (broker listings)",
+   "listings": "MK Residence",
+   "brokers": 1
+  },
+  {
+   "id": "pf-lusail-residence-1532",
+   "name": "Lusail Residence",
+   "kind": "developer_candidate",
+   "current": "Not stated (broker listings)",
+   "listings": "Lusail Real Estate Development Company",
+   "brokers": 1
+  },
+  {
+   "id": "pf-fox-hills-a13-1392",
+   "name": "Fox Hills A13",
+   "kind": "developer_candidate",
+   "current": "Not stated (broker listings)",
+   "listings": "MK Residence",
+   "brokers": 1
+  },
+  {
+   "id": "pf-downtown-184",
+   "name": "Downtown",
+   "kind": "developer_candidate",
+   "current": "Not stated (broker listings)",
+   "listings": "TAAMEER Development",
+   "brokers": 1
+  },
+  {
+   "id": "pf-fox-hills-130",
+   "name": "Fox Hills: off-plan listings",
+   "kind": "developer_candidate",
+   "current": "Not stated (broker listings)",
+   "listings": "Mazaya Real Estate",
+   "brokers": 1
+  },
+  {
+   "id": "pf-waterfront-commercial-259",
+   "name": "Waterfront Commercial",
+   "kind": "developer_candidate",
+   "current": "Not stated (broker listings)",
+   "listings": "Capstone Property",
+   "brokers": 1
+  },
+  {
+   "id": "pf-le-mirage-hills-1569",
+   "name": "Le Mirage Hills",
+   "kind": "no_first_sale",
+   "current": null,
+   "listings": 3,
+   "brokers": 1
+  },
+  {
+   "id": "pf-muraikh-301",
+   "name": "Muraikh: off-plan listings",
+   "kind": "developer_candidate",
+   "current": "Not stated (broker listings)",
+   "listings": "J Seven Real Estate",
+   "brokers": 1
+  }
+ ]
+}

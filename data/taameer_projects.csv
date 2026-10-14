@@ -1,0 +1,14 @@
+project,name_en,name_ar,area_id,lat,lng,status,handover,units_total,floors,unit_type,size_sqm,price_qar,down_pct,during_pct,handover_pct,after_pct,years_during,years_after,source,as_of
+la-mer-tower,La Mer Tower,,lusail,25.43332,51.52047,off_plan,,,33,1br,85,895633,,,,,,,Property Finder listing (starting price). REPLACE with internal price list,2026-10-11
+la-mer-tower,La Mer Tower,,lusail,25.43332,51.52047,off_plan,,,33,3br,200,3002123,,,,,,,Property Finder listing (starting price). REPLACE with internal price list,2026-10-11
+la-mer-tower,La Mer Tower,,lusail,25.43332,51.52047,off_plan,,,33,duplex,379,3259226,,,,,,,Property Finder listing (starting price). REPLACE with internal price list,2026-10-11
+seef-waterfront,Seef Waterfront,,lusail,25.42432,51.51002,off_plan,,610,8,2br,173,2773552,,,,,,,Property Finder listing (starting price). REPLACE with internal price list,2026-10-11
+canal-bay,Canal Bay,,qetaifan-islands,25.43,51.5245,under_construction,2028-07,783,,1br,,2450000,40.0,0.0,0.0,60.0,,,Property Finder listing (starting price). REPLACE with internal price list,2026-10-11
+carlton-house,Carlton House,,qetaifan-islands,25.43296,51.52415,off_plan,2027-12,316,12,1br,,1800000,,,,,,,Property Finder listing (starting price). REPLACE with internal price list,2026-10-11
+pf-flora-villas-1663,Flora,,lusail,25.45506,51.49572,off_plan,,,,villa,400,4707675,,,,,,,"Property Finder broker listings, median asking price (first sale). REPLACE with internal price list",2026-10-14
+pf-valencia-residence-1662,Valencia,,lusail,25.41474,51.50306,off_plan,2029-06,,,1br,76,1073005,2,98,0,0,6,,"Property Finder broker listings, median asking price (first sale). REPLACE with internal price list",2026-10-14
+pf-valencia-residence-1662,Valencia,,lusail,25.41474,51.50306,off_plan,2029-06,,,2br,100,1507800,2,98,0,0,6,,"Property Finder broker listings, median asking price (first sale). REPLACE with internal price list",2026-10-14
+pf-valencia-residence-1662,Valencia,,lusail,25.41474,51.50306,off_plan,2029-06,,,studio,75,1044094,2,98,0,0,6,,"Property Finder broker listings, median asking price (first sale). REPLACE with internal price list",2026-10-14
+pf-skala-tower-1653,Skala Tower,,lusail,25.42766,51.51492,off_plan,2026-12,,,1br,108,1906740,,,,,,,"Property Finder broker listings, median asking price (first sale). REPLACE with internal price list",2026-10-14
+pf-skala-tower-1653,Skala Tower,,lusail,25.42766,51.51492,off_plan,2026-12,,,2br,148,2673000,,,,,,,"Property Finder broker listings, median asking price (first sale). REPLACE with internal price list",2026-10-14
+pf-taameer-central-tower-1646,Taameer Central Tower,,lusail,25.39558,51.51986,off_plan,,,,office,186,3248343,,,,,,,"Property Finder broker listings, median asking price (first sale). REPLACE with internal price list",2026-10-14
